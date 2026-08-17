@@ -349,25 +349,10 @@ export default function UmapExplorer() {
                   ))}
                 </div>
               </div>
-
-              {/* Stability Score Placeholder */}
-              <div className="mt-auto border-t border-dashed border-gray-600/50 pt-4 opacity-50 flex items-center gap-3">
-                <Info className="w-5 h-5 text-gray-400 shrink-0" />
-                <div>
-                  <p className="text-sm font-medium text-gray-300">Stability Score</p>
-                  <p className="text-xs text-gray-500">Not yet computed by pipeline</p>
-                </div>
-              </div>
-
             </div>
           )}
         </div>
       </div>
-
-      <p className="text-xs text-gray-500/70 text-center max-w-4xl mx-auto shrink-0 pb-2">
-        This projection reflects true structure in the underlying sequence embeddings. Taxonomic and confidence categories are derived from a separate similarity-search step and may not form visually distinct regions — overlap between categories in this view is expected and does not indicate an error.
-      </p>
-
     </div>
   );
 }
