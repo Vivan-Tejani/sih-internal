@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, ArrowUpDown, ArrowUp, ArrowDown } from 'lucide-react';
+import { Search, ArrowUpDown, ArrowUp, ArrowDown, ChevronDown } from 'lucide-react';
 import umapData from '../data/umap_explorer_data.json';
 
 const CATEGORY_MAP = {
@@ -112,30 +112,36 @@ export default function TaxonomyTable() {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Search cluster ID, taxon, or lineage..."
-            className="w-full bg-[#050a12]/60 border border-white/10 rounded-lg pl-9 pr-3 py-2 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-bio-cyan/50"
+            className="w-full h-10 bg-[#050a12]/60 border border-white/10 rounded-lg pl-9 pr-3 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-bio-cyan/50"
           />
         </div>
 
-        <select
-          value={statusFilter}
-          onChange={(e) => setStatusFilter(e.target.value)}
-          className="flex-1 bg-[#050a12]/60 border border-white/10 rounded-lg px-3 py-2 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
-        >
-          <option value="all">All statuses</option>
-          <option value="novel">Novel only</option>
-          <option value="flagged">Flagged only</option>
-        </select>
+        <div className="relative flex-1">
+          <select
+            value={statusFilter}
+            onChange={(e) => setStatusFilter(e.target.value)}
+            className="w-full h-10 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
+          >
+            <option value="all">All statuses</option>
+            <option value="novel">Novel only</option>
+            <option value="flagged">Flagged only</option>
+          </select>
+          <ChevronDown className="w-4 h-4 text-gray-500 absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+        </div>
 
-        <select
-          value={confBand}
-          onChange={(e) => setConfBand(e.target.value)}
-          className="flex-1 bg-[#050a12]/60 border border-white/10 rounded-lg px-3 py-2 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
-        >
-          <option value="all">All confidence bands</option>
-          <option value="high">High (&ge;80%)</option>
-          <option value="mid">Mid (65-79%)</option>
-          <option value="low">Low (&lt;65%)</option>
-        </select>
+        <div className="relative flex-1">
+          <select
+            value={confBand}
+            onChange={(e) => setConfBand(e.target.value)}
+            className="w-full h-10 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
+          >
+            <option value="all">All confidence bands</option>
+            <option value="high">High (&ge;80%)</option>
+            <option value="mid">Mid (65-79%)</option>
+            <option value="low">Low (&lt;65%)</option>
+          </select>
+          <ChevronDown className="w-4 h-4 text-gray-500 absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+        </div>
       </div>
 
       {/* Table */}

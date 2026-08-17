@@ -3,11 +3,11 @@ import { Info } from 'lucide-react';
 import umapData from '../data/umap_explorer_data.json';
 
 const CATEGORY_MAP = {
-  "Confident match": { label: "Confidently Labeled", color: "#22d3ee" },
-  "Candidate novel taxon": { label: "Novel Cluster", color: "#e879f9" },
-  "Low confidence / possible divergent": { label: "Disagreement Flag", color: "#fbbf24" },
-  "Singleton": { label: "Singleton", color: "#2dd4bf" },
-  "Contaminant": { label: "Contaminant", color: "#fb7185" },
+  "Confident match": { label: "Confidently Labeled", color: "#2dd4bf" },      // teal
+  "Candidate novel taxon": { label: "Novel Cluster", color: "#0ea5e9" },      // ocean blue
+  "Low confidence / possible divergent": { label: "Disagreement Flag", color: "#fbbf24" }, // sandy amber (kept as-is, warm contrast)
+  "Singleton": { label: "Singleton", color: "#5eead4" },                     // seafoam
+  "Contaminant": { label: "Contaminant", color: "#fb7185" },                 // coral
 };
 
 function computeDiversity(clusters) {
