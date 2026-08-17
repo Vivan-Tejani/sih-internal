@@ -25,6 +25,19 @@ export default function App() {
   const [isSampleData, setIsSampleData] = useState(false);
   const [processingMessage, setProcessingMessage] = useState('');
   const [currentPage, setCurrentPage] = useState('overview');
+  const navRef = useRef(null);
+  const navItemRefs = useRef({});
+  const [sliderStyle, setSliderStyle] = useState({ left: 0, width: 0 });
+
+  useEffect(() => {
+    const el = navItemRefs.current[currentPage];
+    const nav = navRef.current;
+    if (el && nav) {
+      const elRect = el.getBoundingClientRect();
+      const navRect = nav.getBoundingClientRect();
+      setSliderStyle({ left: elRect.left - navRect.left, width: elRect.width });
+    }
+  }, [currentPage]);
 
   const fileInputRef = useRef(null);
 
@@ -159,48 +172,38 @@ export default function App() {
       </video>
 
       {/* Dark Gradient Scrim */}
-      <div className="fixed inset-0 bg-gradient-to-t from-[#050a12] via-[#050a12]/80 to-[#050a12]/40 -z-10 pointer-events-none" />
+      <div className="fixed inset-0 bg-gradient-to-t from-[#050a12] via-[#050a12]/50 to-[#050a12]/20 -z-10 pointer-events-none" />
 
       {/* Header */}
       <header className="sticky top-0 z-50 bg-[#050a12]/50 backdrop-blur-md border-b border-bio-cyan/20 px-8 py-4 flex justify-between items-center">
         <div className="flex items-center gap-4">
-          <Dna className="w-8 h-8 text-bio-cyan drop-shadow-[0_0_10px_rgba(34,211,238,0.5)]" />
+          <Dna className="w-8 h-8 text-gray-400" />
           <div>
             <h1 className="text-xl font-bold tracking-wider text-white">eDNA ASV PIPELINE</h1>
             <p className="text-xs text-bio-teal/80 uppercase tracking-widest">Deep-Sea Taxonomic Discovery</p>
           </div>
         </div>
-        <nav className="hidden md:flex gap-6 text-lg font-medium tracking-wide">
-          <button 
-            onClick={() => setCurrentPage('overview')}
-            className={`transition-colors ${currentPage === 'overview' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
-          >
-            Overview
-          </button>
-          <button 
-            onClick={() => setCurrentPage('umap')}
-            className={`transition-colors ${currentPage === 'umap' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
-          >
-            UMAP Explorer
-          </button>
-          <button 
-            onClick={() => setCurrentPage('taxonomy')}
-            className={`transition-colors ${currentPage === 'taxonomy' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
-          >
-            Taxonomy
-          </button>
-          <button 
-            onClick={() => setCurrentPage('diversity')}
-            className={`transition-colors ${currentPage === 'diversity' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
-          >
-            Diversity
-          </button>
-          <button 
-            onClick={() => setCurrentPage('novel')}
-            className={`transition-colors ${currentPage === 'novel' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
-          >
-            Novel Taxa
-          </button>
+        <nav ref={navRef} className="hidden md:flex gap-6 text-lg font-medium tracking-wide relative">
+          <div
+            className="absolute top-1/2 -translate-y-1/2 h-9 rounded-full bg-white/10 backdrop-blur-md border border-white/20 shadow-[0_0_12px_rgba(34,211,238,0.15)] transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] pointer-events-none"
+            style={{ left: sliderStyle.left, width: sliderStyle.width }}
+          />
+          {[
+            { key: 'overview', label: 'Overview' },
+            { key: 'umap', label: 'UMAP Explorer' },
+            { key: 'taxonomy', label: 'Taxonomy' },
+            { key: 'diversity', label: 'Diversity' },
+            { key: 'novel', label: 'Novel Taxa' },
+          ].map(({ key, label }) => (
+            <button
+              key={key}
+              ref={(el) => (navItemRefs.current[key] = el)}
+              onClick={() => setCurrentPage(key)}
+              className={`relative z-10 px-3 py-1 transition-colors duration-300 ${currentPage === key ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
+            >
+              {label}
+            </button>
+          ))}
         </nav>
       </header>
 
@@ -283,38 +286,17 @@ export default function App() {
                 <button 
                   onClick={loadSampleRun}
                   disabled={isProcessing}
-                  className="flex items-center gap-2 px-4 py-2 text-sm text-gray-400 hover:text-bio-cyan transition-colors"
-                >
-                  <Database className="w-4 h-4" /> Load Sample Run
-                </button>
-
-                <button 
-                  onClick={runPipeline}
-                  disabled={!file || isProcessing || (hasRun && !isSampleData)}
                   className={`flex items-center gap-2 px-8 py-3 rounded-lg font-medium tracking-wide transition-all duration-300 ${
-                    !file 
-                      ? 'bg-gray-800 text-gray-500 cursor-not-allowed' 
-                      : isProcessing && !isSampleData
-                        ? 'bg-bio-cyan/50 text-white cursor-wait animate-pulse'
-                        : hasRun && !isSampleData
-                          ? 'bg-green-500/20 text-green-400 border border-green-500/50'
-                          : 'bg-gradient-to-r from-bio-cyan to-bio-teal text-[#050a12] shadow-[0_0_20px_rgba(34,211,238,0.4)] hover:shadow-[0_0_30px_rgba(34,211,238,0.6)] hover:scale-105'
+                    isProcessing
+                      ? 'bg-gray-700 text-gray-300 cursor-wait animate-pulse'
+                      : hasRun
+                        ? 'bg-white/10 text-gray-200 border border-white/30'
+                        : 'bg-white/10 text-gray-200 border border-white/20 hover:bg-white/20 hover:scale-105'
                   }`}
                 >
-                  {isProcessing && !isSampleData ? (
-                    <>Processing...</>
-                  ) : hasRun && !isSampleData ? (
-                    <>
-                      <CheckCircle2 className="w-5 h-5" /> Pipeline Complete
-                    </>
-                  ) : (
-                    <>
-                      <Play className="w-5 h-5" /> Run Pipeline
-                    </>
-                  )}
+                  <Database className="w-5 h-5" /> Load Sample Run
                 </button>
               </div>
-              {!file && <p className="text-xs text-gray-500 pr-4">No data? Explore a real pipeline output ({SAMPLE_RUN.totalASVs.toLocaleString()} ASVs, {SAMPLE_RUN.totalClusters} clusters)</p>}
             </div>
           </div>
           
@@ -365,10 +347,6 @@ export default function App() {
           />
         </section>
 
-        <p className="text-xs text-gray-500/70 text-center max-w-4xl mx-auto">
-          Status categories reflect this pipeline's 3-tier confidence system (Confident / Divergent / Novel candidate). Disagreement-flag and contaminant-gating stages are computed separately in the QC Review module.
-        </p>
-
         {/* Bottom Row: Diversity & Metadata */}
         <div className="grid md:grid-cols-3 gap-8">
           
@@ -399,6 +377,31 @@ export default function App() {
                   <div 
                     className="h-full bg-gradient-to-r from-bio-cyan to-bio-violet transition-all duration-1000 ease-out delay-150" 
                     style={{ width: hasRun ? (isSampleData ? `${SAMPLE_RUN.diversity.simpson * 100}%` : '87%') : '0%' }}
+                  />
+                </div>
+              </div>
+              <div>
+                <div className="flex justify-between items-end mb-2">
+                  <span className="text-sm text-gray-400">Chao1 Richness</span>
+                  <span className="font-mono text-xl text-bio-cyan">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.chao1 : '598.0') : '-.--'}</span>
+                </div>
+                <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
+                  <div 
+                    className="h-full bg-gradient-to-r from-bio-teal to-bio-cyan transition-all duration-1000 ease-out delay-300" 
+                    style={{ width: hasRun ? '100%' : '0%' }}
+                  />
+                </div>
+              </div>
+
+              <div>
+                <div className="flex justify-between items-end mb-2">
+                  <span className="text-sm text-gray-400">Pielou's Evenness</span>
+                  <span className="font-mono text-xl text-bio-teal">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.pielou : '0.75') : '-.--'}</span>
+                </div>
+                <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
+                  <div 
+                    className="h-full bg-gradient-to-r from-bio-cyan to-bio-violet transition-all duration-1000 ease-out delay-500" 
+                    style={{ width: hasRun ? (isSampleData ? `${SAMPLE_RUN.diversity.pielou * 100}%` : '75%') : '0%' }}
                   />
                 </div>
               </div>
@@ -505,7 +508,7 @@ function StatCard({ icon, value, label, suffix = '', active, glowColor = 'rgba(3
   }, [active, value, suffix]);
 
   return (
-    <div className={`bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-5 flex flex-col justify-between transition-all duration-500 ${active ? 'shadow-lg' : ''}`}
+    <div className={`bg-white/15 backdrop-blur-xl border border-white/10 rounded-2xl p-5 flex flex-col justify-between transition-all duration-500 ${active ? 'shadow-lg' : ''}`}
          style={{ boxShadow: active ? `0 0 20px ${glowColor}` : 'none' }}>
       <div className="flex items-center justify-between mb-4">
         {icon}
