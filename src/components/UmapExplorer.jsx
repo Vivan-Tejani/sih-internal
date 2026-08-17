@@ -31,6 +31,17 @@ export default function UmapExplorer() {
   const [hoveredCluster, setHoveredCluster] = useState(null);
   const [selectedCluster, setSelectedCluster] = useState(null);
 
+  // Fake-3D: mouse-driven parallax offset (-1 to 1 range)
+  const [parallax, setParallax] = useState({ x: 0, y: 0 });
+
+  const handlePlaneMouseMove = (e) => {
+    if (!containerRef.current) return;
+    const rect = containerRef.current.getBoundingClientRect();
+    const px = ((e.clientX - rect.left) / rect.width) * 2 - 1;
+    const py = ((e.clientY - rect.top) / rect.height) * 2 - 1;
+    setParallax({ x: px, y: py });
+  };
+
   // SVG Data dimensions
   const meta = umapData.meta;
   const padding = Math.max(meta.xMax - meta.xMin, meta.yMax - meta.yMin) * 0.1;
@@ -152,6 +163,7 @@ export default function UmapExplorer() {
             className="w-full h-full cursor-grab active:cursor-grabbing outline-none"
             onWheel={handleWheel}
             onMouseDown={handleMouseDown}
+            onMouseMove={handlePlaneMouseMove}
           >
             <div 
               className="w-full h-full origin-center"
@@ -170,21 +182,31 @@ export default function UmapExplorer() {
                   const isHovered = hoveredCluster?.clusterId === c.clusterId;
                   const isSelected = selectedCluster?.clusterId === c.clusterId;
                   const colorInfo = CATEGORY_MAP[c.status] || CATEGORY_MAP["Low confidence / possible divergent"];
-                  
+
+                  // Fake-3D: use similarityPct as synthetic depth (z). 0 = far back, 1 = closest.
+                  const z = c.similarityPct / 100;
+                  const depthScale = 0.6 + z * 0.8; // 0.6x (far) to 1.4x (near)
+                  const depthOpacity = 0.35 + z * 0.65; // dimmer when "far"
+                  // Parallax: things closer (higher z) shift more with mouse, farther shift less
+                  const parallaxStrength = width * 0.15 * z;
+                  const px = c.x + parallax.x * parallaxStrength;
+                  const py = -c.y + parallax.y * parallaxStrength;
+
                   return (
                     <circle
                       key={c.clusterId}
-                      cx={c.x}
-                      cy={-c.y} // invert Y
-                      r={isSelected || isHovered ? r * 1.5 : r}
+                      cx={px}
+                      cy={py}
+                      r={(isSelected || isHovered ? r * 1.5 : r) * depthScale}
                       fill={colorInfo.color}
-                      fillOpacity={isHovered || isSelected ? 1 : 0.7}
+                      fillOpacity={(isHovered || isSelected ? 1 : 0.7) * depthOpacity}
                       stroke={colorInfo.color}
                       strokeWidth={isSelected ? width * 0.005 : width * 0.001}
-                      className="transition-all duration-200 cursor-pointer"
+                      className="cursor-pointer"
                       style={{
                         filter: isSelected ? `drop-shadow(0 0 4px ${colorInfo.color})` : 'none',
-                        transformOrigin: `${c.x}px ${-c.y}px`,
+                        transformOrigin: `${px}px ${py}px`,
+                        transition: isDragging ? 'none' : 'cx 0.15s ease-out, cy 0.15s ease-out, r 0.2s ease-out',
                       }}
                       onMouseEnter={(e) => {
                         const rect = containerRef.current.getBoundingClientRect();

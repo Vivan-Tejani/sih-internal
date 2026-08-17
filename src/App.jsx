@@ -12,6 +12,9 @@ import {
 } from 'lucide-react';
 import { SAMPLE_RUN } from './data/sampleRun';
 import UmapExplorer from './components/UmapExplorer';
+import TaxonomyTable from './components/TaxonomyTable';
+import DiversityPage from './components/DiversityPage';
+import NovelTaxaPage from './components/NovelTaxaPage';
 
 export default function App() {
   const [file, setFile] = useState(null);
@@ -167,7 +170,7 @@ export default function App() {
             <p className="text-xs text-bio-teal/80 uppercase tracking-widest">Deep-Sea Taxonomic Discovery</p>
           </div>
         </div>
-        <nav className="hidden md:flex gap-6 text-sm font-medium tracking-wide">
+        <nav className="hidden md:flex gap-6 text-lg font-medium tracking-wide">
           <button 
             onClick={() => setCurrentPage('overview')}
             className={`transition-colors ${currentPage === 'overview' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
@@ -180,9 +183,24 @@ export default function App() {
           >
             UMAP Explorer
           </button>
-          <a href="#" className="text-gray-400 hover:text-gray-200 transition-colors">Taxonomy</a>
-          <a href="#" className="text-gray-400 hover:text-gray-200 transition-colors">Diversity</a>
-          <a href="#" className="text-gray-400 hover:text-gray-200 transition-colors">Novel Taxa</a>
+          <button 
+            onClick={() => setCurrentPage('taxonomy')}
+            className={`transition-colors ${currentPage === 'taxonomy' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
+          >
+            Taxonomy
+          </button>
+          <button 
+            onClick={() => setCurrentPage('diversity')}
+            className={`transition-colors ${currentPage === 'diversity' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
+          >
+            Diversity
+          </button>
+          <button 
+            onClick={() => setCurrentPage('novel')}
+            className={`transition-colors ${currentPage === 'novel' ? 'text-bio-cyan drop-shadow-[0_0_8px_rgba(34,211,238,0.5)]' : 'text-gray-400 hover:text-gray-200'}`}
+          >
+            Novel Taxa
+          </button>
         </nav>
       </header>
 
@@ -191,7 +209,7 @@ export default function App() {
       <main className="max-w-7xl mx-auto px-8 py-12 space-y-12">
         
         {/* Hero / Upload Section */}
-        <section className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-8 shadow-[0_8px_32px_rgba(0,0,0,0.5)] max-w-3xl">
+        <section className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-8 shadow-[0_8px_32px_rgba(0,0,0,0.5)] max-w-3xl mx-auto">
           <h2 className="text-3xl font-light tracking-wide text-white mb-6">Upload Sequence Data</h2>
           
           <div 
@@ -430,8 +448,14 @@ export default function App() {
 
         </div>
       </main>
-      ) : (
+      ) : currentPage === 'umap' ? (
         <UmapExplorer />
+      ) : currentPage === 'taxonomy' ? (
+        <TaxonomyTable />
+      ) : currentPage === 'diversity' ? (
+        <DiversityPage />
+      ) : (
+        <NovelTaxaPage />
       )}
       
       <style dangerouslySetInnerHTML={{__html: `
