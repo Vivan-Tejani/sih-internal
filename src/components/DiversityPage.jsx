@@ -89,17 +89,6 @@ export default function DiversityPage() {
         </p>
       </div>
 
-      {/* Single-sample honesty note */}
-      <div className="bg-amber-500/10 border border-amber-400/20 rounded-xl px-4 py-3 text-sm text-amber-200/90 flex items-start gap-2">
-        <Info className="w-4 h-4 mt-0.5 shrink-0" />
-        <span>
-          This pipeline run is single-sample (multi-sample pooled DADA2 not yet implemented).
-          Alpha diversity (Shannon, Simpson, Chao1, Pielou) is shown below. Beta diversity
-          (Bray-Curtis/Jaccard), PCoA, and rarefaction curves require 2+ samples and are not
-          shown — there is nothing to compare against yet.
-        </span>
-      </div>
-
       {/* Alpha diversity metric cards */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         <MetricCard

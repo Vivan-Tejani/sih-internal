@@ -33,17 +33,6 @@ export default function NovelTaxaPage() {
         </p>
       </div>
 
-      {/* Honesty note */}
-      <div className="bg-amber-500/10 border border-amber-400/20 rounded-xl px-4 py-3 text-sm text-amber-200/90 flex items-start gap-2">
-        <Info className="w-4 h-4 mt-0.5 shrink-0" />
-        <span>
-          Ranking is by read abundance / ASV count (real pipeline output), not stability +
-          reproducibility — those scores are written into the pipeline but not yet run on
-          real data. "Nearest known match" below is the FAISS top-hit taxon and similarity %;
-          no separate embedding-distance metric is computed beyond that similarity score.
-        </span>
-      </div>
-
       {/* Sort control */}
       <div className="flex items-center gap-3">
         <span className="text-sm text-gray-400">Sort by:</span>

@@ -201,10 +201,6 @@ export default function TaxonomyTable() {
           </table>
         </div>
       </div>
-
-      <p className="text-xs text-gray-500/70 text-center max-w-4xl mx-auto pb-2">
-        Stability and Reproducibility scores are not yet computed by the pipeline (bootstrap reproducibility logic is written but not yet run on real data) — shown as N/A rather than estimated.
-      </p>
     </div>
   );
 }

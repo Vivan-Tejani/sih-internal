@@ -22,6 +22,8 @@ export const SAMPLE_RUN = {
   diversity: {
     shannon: 4.83,
     simpson: 0.965,
+    chao1: 598.0,
+    pielou: 0.755,
   },
 
   similarityRange: { min: 34.23, max: 85.51 },
