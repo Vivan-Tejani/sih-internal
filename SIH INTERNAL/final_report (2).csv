@@ -1,0 +1,1025 @@
+Cluster_ID,Best_Match,Similarity_Pct,Status,Total_Reads,Pct_of_Sample,Num_ASVs
+Unclustered,Eukaryota;TSAR;Alveolata;Ciliophora;Spirotrichea;Choreotrichida;Strobilidiidae;Strobilidiidae_X;Strobilidiidae_X_sp.;,63.88,Candidate novel taxon,12557,7.98,2840
+Cluster_465,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,66.36,Low confidence / possible divergent,5634,3.58,802
+Cluster_646,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,75.8,Low confidence / possible divergent,4643,2.95,304
+Cluster_862,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Tokophryidae;Tokophrya;Tokophrya_sp.;,77.6,Low confidence / possible divergent,4078,2.59,324
+Cluster_831,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Clevelandellida;Nyctotherus_2;Nyctotherus_ovalis;,75.49,Low confidence / possible divergent,3931,2.5,256
+Cluster_911,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.87,Low confidence / possible divergent,3545,2.25,178
+Cluster_872,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,73.02,Low confidence / possible divergent,2443,1.55,129
+Cluster_755,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,73.29,Low confidence / possible divergent,2049,1.3,154
+Cluster_27,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Uvigerinidae;Uvigerina;Uvigerina_peregrina;,58.63,Candidate novel taxon,1965,1.25,130
+Cluster_205,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Microplana;Microplana_sp.;,44.62,Candidate novel taxon,1863,1.18,225
+Cluster_961,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Trebouxiophyceae;Microthamniales;Microthamniales_X;Trebouxia;Trebouxia_sp.;,70.6,Low confidence / possible divergent,1846,1.17,145
+Cluster_952,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.51,Confident match,1805,1.15,105
+Cluster_850,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,77.63,Low confidence / possible divergent,1624,1.03,103
+Cluster_1014,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,76.44,Low confidence / possible divergent,1477,0.94,104
+Cluster_434,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,67.69,Low confidence / possible divergent,1283,0.82,124
+Cluster_84,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,60.12,Candidate novel taxon,1240,0.79,57
+Cluster_851,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia1;Babesia_major;,74.6,Low confidence / possible divergent,1208,0.77,88
+Cluster_444,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Dothideomycetes_X;Dothideomycetes_X_sp.;,65.61,Low confidence / possible divergent,1168,0.74,51
+Cluster_455,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,70.16,Low confidence / possible divergent,1123,0.71,67
+Cluster_1021,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.99,Low confidence / possible divergent,1092,0.69,30
+Cluster_150,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Spumellaria;Spumellaria_4b;Spumellaria_4b_X;Spumellaria_4b_X_sp.;,66.62,Low confidence / possible divergent,974,0.62,167
+Cluster_416,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,45.27,Candidate novel taxon,900,0.57,64
+Cluster_977,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa_sp.;,73.32,Low confidence / possible divergent,893,0.57,36
+Cluster_632,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,76.27,Low confidence / possible divergent,873,0.55,47
+Cluster_555,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,73.16,Low confidence / possible divergent,872,0.55,46
+Cluster_558,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,75.93,Low confidence / possible divergent,828,0.53,81
+Cluster_878,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,72.12,Low confidence / possible divergent,796,0.51,83
+Cluster_662,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_1;PHYLL_4;PHYLL_4_X;PHYLL_4_X_sp.;,79.91,Low confidence / possible divergent,769,0.49,53
+Cluster_348,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_lestoquardi;,72.32,Low confidence / possible divergent,763,0.48,92
+Cluster_990,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.09,Low confidence / possible divergent,704,0.45,35
+Cluster_860,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,77.68,Low confidence / possible divergent,700,0.44,64
+Cluster_521,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Phoma;Phoma_sp.;,67.25,Low confidence / possible divergent,694,0.44,110
+Cluster_652,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.87,Low confidence / possible divergent,672,0.43,33
+Cluster_809,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.3,Confident match,666,0.42,43
+Cluster_74,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Gregarinomorphea_X_GRE1;Gregarinomorphea_X_GRE1_X;Gregarinomorphea_X_GRE1_XX;Gregarinomorphea_X_GRE1_XX_sp.;,69.0,Low confidence / possible divergent,663,0.42,87
+Cluster_642,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,69.65,Low confidence / possible divergent,659,0.42,76
+Cluster_846,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,71.74,Low confidence / possible divergent,644,0.41,50
+Cluster_155,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Liberomyces;Liberomyces_saliciphilus;,43.79,Candidate novel taxon,636,0.4,82
+Cluster_904,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.39,Low confidence / possible divergent,628,0.4,51
+Cluster_757,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,76.08,Low confidence / possible divergent,626,0.4,66
+Cluster_1012,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,81.26,Confident match,620,0.39,71
+Cluster_563,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,78.79,Low confidence / possible divergent,594,0.38,26
+Cluster_739,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,81.17,Confident match,594,0.38,46
+Cluster_320,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Labyrinthulomycetes_LAB15;Labyrinthulomycetes_LAB15_X;Labyrinthulomycetes_LAB15_X_sp.;,73.37,Low confidence / possible divergent,583,0.37,89
+Cluster_567,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Candida;Candida_albicans;,76.16,Low confidence / possible divergent,562,0.36,68
+Cluster_856,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Clevelandellida;Nyctotherus_2;Nyctotherus_ovalis;,77.8,Low confidence / possible divergent,559,0.36,33
+Cluster_899,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,69.7,Low confidence / possible divergent,538,0.34,22
+Cluster_636,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,75.55,Low confidence / possible divergent,535,0.34,45
+Cluster_798,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Psalteriomonadidae;Harpagon;Harpagon_sp.;,71.2,Low confidence / possible divergent,533,0.34,39
+Cluster_951,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,76.45,Low confidence / possible divergent,530,0.34,44
+Cluster_415,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_australis;,40.96,Candidate novel taxon,529,0.34,66
+Cluster_381,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Cassidulinidae;Islandiella;Islandiella_sp.;,57.92,Candidate novel taxon,524,0.33,45
+Cluster_474,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,70.11,Low confidence / possible divergent,517,0.33,72
+Cluster_693,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_polaris;,71.38,Low confidence / possible divergent,514,0.33,35
+Cluster_769,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,80.96,Confident match,485,0.31,46
+Cluster_975,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.94,Confident match,480,0.31,25
+Cluster_494,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,76.74,Low confidence / possible divergent,477,0.3,45
+Cluster_754,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.41,Low confidence / possible divergent,475,0.3,29
+Cluster_431,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_1;PHYLL_4;PHYLL_4_X;PHYLL_4_X_sp.;,59.48,Candidate novel taxon,473,0.3,49
+Cluster_785,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Paecilomyces;Paecilomyces_nostocoides;,62.45,Candidate novel taxon,468,0.3,35
+Cluster_644,Eukaryota;Obazoa;Opisthokonta;Fungi;Rozellomycota;Rozellomycota_X;Rozellomycota_XX;Rozellomycota_XXX;Rozellomycota_XXX_sp.;,67.09,Low confidence / possible divergent,467,0.3,41
+Cluster_988,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,78.71,Low confidence / possible divergent,467,0.3,24
+Cluster_522,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,69.19,Low confidence / possible divergent,462,0.29,86
+Cluster_289,Eukaryota;Archaeplastida;Picozoa;Picozoa_subdivision_2;Picozoa_subdivision_2_X;Picozoa_subdivision_2_XX;Picozoa_subdivision_2_XXX;Picozoa_subdivision_2_XXXX;Picozoa_subdivision_2_XXXX_sp.;,75.58,Low confidence / possible divergent,458,0.29,75
+Cluster_207,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,79.45,Low confidence / possible divergent,424,0.27,26
+Cluster_369,Eukaryota;TSAR;Alveolata;Dinoflagellata;Syndiniales;Dino-Group-I;Dino-Group-I-Clade-1;Dino-Group-I-Clade-1_X;Dino-Group-I-Clade-1_X_sp.;,58.79,Candidate novel taxon,409,0.26,37
+Cluster_993,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,77.13,Low confidence / possible divergent,408,0.26,17
+Cluster_386,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_shanghaiensis;,41.18,Candidate novel taxon,399,0.25,99
+Cluster_659,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.98,Low confidence / possible divergent,399,0.25,49
+Cluster_681,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,78.77,Low confidence / possible divergent,395,0.25,29
+Cluster_566,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,71.07,Low confidence / possible divergent,392,0.25,52
+Cluster_1018,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.86,Low confidence / possible divergent,391,0.25,9
+Cluster_354,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,73.98,Low confidence / possible divergent,390,0.25,28
+Cluster_839,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,72.32,Low confidence / possible divergent,387,0.25,34
+Cluster_674,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,76.42,Low confidence / possible divergent,361,0.23,27
+Cluster_349,Eukaryota;Amoebozoa;Discosea;Discosea_X;Flabellinia;Vannellida;Vannellida_X;Vannellida_XX;Vannellida_XX_sp.;,55.63,Candidate novel taxon,353,0.22,52
+Cluster_918,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Eimeriidae;Eimeria;Eimeria_sp.;,70.83,Low confidence / possible divergent,343,0.22,13
+Cluster_939,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.6,Low confidence / possible divergent,335,0.21,18
+Cluster_998,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.58,Confident match,333,0.21,20
+Cluster_695,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Neogloboquadrina;Neogloboquadrina_pachyderma;,76.43,Low confidence / possible divergent,329,0.21,29
+Cluster_749,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,75.73,Low confidence / possible divergent,327,0.21,18
+Cluster_163,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,49.53,Candidate novel taxon,326,0.21,70
+Cluster_325,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,69.85,Low confidence / possible divergent,322,0.2,34
+Cluster_976,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,83.55,Confident match,320,0.2,18
+Cluster_1019,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,81.15,Confident match,320,0.2,7
+Cluster_771,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,79.56,Low confidence / possible divergent,318,0.2,17
+Cluster_763,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,81.11,Confident match,315,0.2,32
+Cluster_445,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,65.5,Low confidence / possible divergent,310,0.2,11
+Cluster_825,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,76.76,Low confidence / possible divergent,308,0.2,26
+Cluster_151,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,44.98,Candidate novel taxon,305,0.19,42
+Cluster_793,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,82.85,Confident match,303,0.19,27
+Cluster_390,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Vaginicolidae;Vaginicolidae_X;Vaginicolidae_X_sp.;,64.09,Candidate novel taxon,300,0.19,20
+Cluster_858,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Sordariomycetes_X;Sordariomycetes_X_sp.;,73.85,Low confidence / possible divergent,299,0.19,23
+Cluster_767,Eukaryota;Amoebozoa;Evosea;Evosea_X;Variosea;Protosteliida;Protosteliida_X;Protostelium;Protostelium_mycophagum;,76.41,Low confidence / possible divergent,299,0.19,16
+Cluster_518,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Glossilus;Glossilus_sp.;,69.01,Low confidence / possible divergent,298,0.19,34
+Cluster_778,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,71.46,Low confidence / possible divergent,292,0.19,19
+Cluster_752,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,70.62,Low confidence / possible divergent,289,0.18,31
+Cluster_730,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,72.92,Low confidence / possible divergent,289,0.18,55
+Cluster_544,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.59,Low confidence / possible divergent,289,0.18,37
+Cluster_906,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Malacostraca;Macrostylis;Macrostylis_sp.;,69.74,Low confidence / possible divergent,288,0.18,23
+Cluster_821,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_1;PHYLL_4;PHYLL_4_X;PHYLL_4_X_sp.;,78.35,Low confidence / possible divergent,286,0.18,23
+Cluster_353,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,75.41,Low confidence / possible divergent,285,0.18,41
+Cluster_630,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_polecki;,77.19,Low confidence / possible divergent,281,0.18,40
+Cluster_462,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.55,Low confidence / possible divergent,281,0.18,32
+Cluster_689,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Evaginogenida;Evaginogenida_X;Evaginogenida_X_sp.;,78.23,Low confidence / possible divergent,281,0.18,20
+Cluster_1013,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,79.23,Low confidence / possible divergent,277,0.18,6
+Cluster_149,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,46.12,Candidate novel taxon,276,0.18,60
+Cluster_400,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,72.61,Low confidence / possible divergent,267,0.17,29
+Cluster_298,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Prymnesiophyceae_X;Prymnesiophyceae_XX;Prymnesiophyceae_XXX;Prymnesiophyceae_XXX_sp.;,75.91,Low confidence / possible divergent,263,0.17,51
+Cluster_828,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.23,Low confidence / possible divergent,262,0.17,19
+Cluster_972,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.15,Low confidence / possible divergent,260,0.17,33
+Cluster_884,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Ceratocystiopsis;Ceratocystiopsis_minuta-bicolor;,69.7,Low confidence / possible divergent,260,0.17,18
+Cluster_538,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,70.84,Low confidence / possible divergent,259,0.16,29
+Cluster_477,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,58.37,Candidate novel taxon,253,0.16,13
+Cluster_594,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.88,Low confidence / possible divergent,253,0.16,33
+Cluster_812,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;,77.13,Low confidence / possible divergent,251,0.16,17
+Cluster_1006,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.92,Low confidence / possible divergent,249,0.16,27
+Cluster_697,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Pyramimonadophyceae;Pyramimonadales;Pyramimonadaceae;Pyramimonas;Pyramimonas_sp.;,72.96,Low confidence / possible divergent,248,0.16,44
+Cluster_297,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Thraustochytriaceae_LAB17;Thraustochytriaceae_LAB17_sp.;,71.94,Low confidence / possible divergent,245,0.16,34
+Cluster_873,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,75.41,Low confidence / possible divergent,244,0.16,14
+Cluster_810,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,67.21,Low confidence / possible divergent,243,0.15,16
+Cluster_836,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria;Theileria_sp.;,68.78,Low confidence / possible divergent,242,0.15,21
+Cluster_791,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Catenulida;Stenostomum;Stenostomum_sphagnetorum;,66.93,Low confidence / possible divergent,241,0.15,21
+Cluster_243,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Ophiostomataceae;Ophiostomataceae_sp.;,71.16,Low confidence / possible divergent,238,0.15,18
+Cluster_877,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Glossilus;Glossilus_sp.;,75.04,Low confidence / possible divergent,237,0.15,33
+Cluster_857,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,75.07,Low confidence / possible divergent,234,0.15,23
+Cluster_239,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-ruber;,73.59,Low confidence / possible divergent,234,0.15,45
+Cluster_914,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,74.17,Low confidence / possible divergent,233,0.15,23
+Cluster_996,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.56,Confident match,232,0.15,15
+Cluster_823,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,79.71,Low confidence / possible divergent,231,0.15,17
+Cluster_264,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_microti;,76.32,Low confidence / possible divergent,231,0.15,41
+Cluster_964,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,80.87,Confident match,230,0.15,14
+Cluster_748,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.56,Low confidence / possible divergent,228,0.14,32
+Cluster_423,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,59.7,Candidate novel taxon,228,0.14,16
+Cluster_330,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_polaris;,71.65,Low confidence / possible divergent,225,0.14,15
+Cluster_947,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,81.37,Confident match,225,0.14,23
+Cluster_514,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.14,Low confidence / possible divergent,224,0.14,28
+Cluster_956,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.43,Low confidence / possible divergent,221,0.14,26
+Cluster_380,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_alternata;,71.32,Low confidence / possible divergent,220,0.14,22
+Cluster_805,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,80.12,Confident match,219,0.14,20
+Cluster_698,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.57,Low confidence / possible divergent,219,0.14,37
+Cluster_712,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Glossilus;Glossilus_sp.;,72.56,Low confidence / possible divergent,216,0.14,30
+Cluster_848,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.48,Confident match,215,0.14,12
+Cluster_425,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloroparvula;Chloroparvula_B2_sp.;,77.15,Low confidence / possible divergent,215,0.14,41
+Cluster_472,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,60.43,Candidate novel taxon,211,0.13,10
+Cluster_891,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium7;Cryptosporidium7_sp.;,65.5,Low confidence / possible divergent,209,0.13,41
+Cluster_432,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Evaginogenida;Periacineta;Periacineta_mexicana;,61.28,Candidate novel taxon,201,0.13,15
+Cluster_304,Eukaryota;Excavata;Discoba;Euglenozoa;Euglenida;Petalomonadida;Eupetalomonads_X;Eupetalomonads_XX;Eupetalomonads_XX_sp.;,77.89,Low confidence / possible divergent,201,0.13,38
+Cluster_546,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Wallemiomycetes;Wallemiales;Wallemia;Wallemia_hederae;,79.23,Low confidence / possible divergent,200,0.13,29
+Cluster_476,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Phagocata;Phagocata_sp.;,59.96,Candidate novel taxon,199,0.13,19
+Cluster_413,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,75.27,Low confidence / possible divergent,199,0.13,13
+Cluster_470,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,66.02,Low confidence / possible divergent,198,0.13,11
+Cluster_306,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria1;Theileria_orientalis;,67.54,Low confidence / possible divergent,194,0.12,32
+Cluster_135,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,64.64,Candidate novel taxon,193,0.12,17
+Cluster_72,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Labyrinthulomycetes_LAB5;Labyrinthulomycetes_LAB5_X;Labyrinthulomycetes_LAB5_X_sp.;,51.96,Candidate novel taxon,193,0.12,34
+Cluster_997,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.59,Low confidence / possible divergent,191,0.12,13
+Cluster_898,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,75.81,Low confidence / possible divergent,186,0.12,18
+Cluster_421,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichocephalida;Trichocephalida_sp.;,71.85,Low confidence / possible divergent,185,0.12,19
+Cluster_579,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,75.16,Low confidence / possible divergent,184,0.12,16
+Cluster_333,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,68.12,Low confidence / possible divergent,183,0.12,27
+Cluster_551,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,67.65,Low confidence / possible divergent,183,0.12,19
+Cluster_835,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,74.62,Low confidence / possible divergent,181,0.12,34
+Cluster_605,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,81.42,Confident match,180,0.11,18
+Cluster_54,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,68.16,Low confidence / possible divergent,180,0.11,29
+Cluster_321,Eukaryota;Obazoa;Opisthokonta;Fungi;Fungi_X;Fungi_XX;Fungi_XXX;Fungi_XXXX;Fungi_XXXX_sp.;,73.95,Low confidence / possible divergent,174,0.11,35
+Cluster_361,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,54.33,Candidate novel taxon,172,0.11,25
+Cluster_224,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_chattoni;,68.05,Low confidence / possible divergent,170,0.11,19
+Cluster_621,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_vogeli;,78.19,Low confidence / possible divergent,169,0.11,23
+Cluster_953,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,74.07,Low confidence / possible divergent,169,0.11,23
+Cluster_1017,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.08,Confident match,166,0.11,19
+Cluster_357,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,70.23,Low confidence / possible divergent,166,0.11,12
+Cluster_93,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,60.29,Candidate novel taxon,164,0.1,15
+Cluster_385,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Sarcocystidae;Sarcocystis;Sarcocystis_medusiformis;,64.54,Candidate novel taxon,163,0.1,19
+Cluster_327,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;,72.58,Low confidence / possible divergent,163,0.1,17
+Cluster_407,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,70.41,Low confidence / possible divergent,160,0.1,27
+Cluster_830,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.5,Low confidence / possible divergent,159,0.1,17
+Cluster_808,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,82.1,Confident match,156,0.1,10
+Cluster_734,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,74.04,Low confidence / possible divergent,156,0.1,9
+Cluster_443,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,70.7,Low confidence / possible divergent,156,0.1,11
+Cluster_1001,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.96,Confident match,155,0.1,7
+Cluster_967,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,74.42,Low confidence / possible divergent,155,0.1,14
+Cluster_994,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,81.48,Confident match,153,0.1,11
+Cluster_531,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,76.32,Low confidence / possible divergent,153,0.1,20
+Cluster_515,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Triparticalcar;Triparticalcar_sp.;,76.07,Low confidence / possible divergent,152,0.1,29
+Cluster_915,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,74.86,Low confidence / possible divergent,152,0.1,21
+Cluster_502,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_microti;,75.23,Low confidence / possible divergent,151,0.1,29
+Cluster_524,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Triparticalcar;Triparticalcar_sp.;,73.07,Low confidence / possible divergent,151,0.1,29
+Cluster_580,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Symbiontida_XX;Symbiontida_XXX;Symbiontida_XXX_sp.;,76.41,Low confidence / possible divergent,151,0.1,20
+Cluster_879,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,62.05,Candidate novel taxon,151,0.1,11
+Cluster_792,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,81.33,Confident match,151,0.1,14
+Cluster_893,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,79.29,Low confidence / possible divergent,150,0.1,14
+Cluster_934,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,73.12,Low confidence / possible divergent,149,0.09,14
+Cluster_148,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Dinophyceae_X;Dinophyceae_XX;Dinophyceae_XXX;Dinophyceae_XXX_sp.;,37.65,Candidate novel taxon,149,0.09,26
+Cluster_991,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.16,Low confidence / possible divergent,148,0.09,12
+Cluster_753,Eukaryota;Amoebozoa;Evosea;Evosea_X;Variosea;Protosteliida;Protosteliida_X;Protostelium;Protostelium_mycophagum;,77.33,Low confidence / possible divergent,148,0.09,23
+Cluster_982,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,76.04,Low confidence / possible divergent,148,0.09,11
+Cluster_257,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,65.43,Low confidence / possible divergent,148,0.09,18
+Cluster_593,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.12,Low confidence / possible divergent,147,0.09,26
+Cluster_833,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,68.63,Low confidence / possible divergent,147,0.09,13
+Cluster_721,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,82.4,Confident match,147,0.09,11
+Cluster_962,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,70.97,Low confidence / possible divergent,147,0.09,11
+Cluster_458,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,80.62,Confident match,146,0.09,24
+Cluster_295,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,74.72,Low confidence / possible divergent,146,0.09,20
+Cluster_625,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,71.63,Low confidence / possible divergent,146,0.09,14
+Cluster_144,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,45.27,Candidate novel taxon,145,0.09,19
+Cluster_818,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Catenulida;Stenostomum;Stenostomum_sphagnetorum;,68.53,Low confidence / possible divergent,145,0.09,9
+Cluster_469,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,80.66,Confident match,144,0.09,19
+Cluster_26,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Dinophyceae_X;Dinophyceae_XX;Dinophyceae_XXX;Dinophyceae_XXX_sp.;,45.1,Candidate novel taxon,143,0.09,28
+Cluster_596,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Labyrinthulaceae;Labyrinthula;Labyrinthula_sp.;,79.37,Low confidence / possible divergent,143,0.09,22
+Cluster_829,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Diversisporales;Scutellospora;Scutellospora_sp.;,78.63,Low confidence / possible divergent,141,0.09,12
+Cluster_344,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Suessiales;Suessiales_X;Suessiales_XX;Suessiales_XX_sp.;,58.22,Candidate novel taxon,140,0.09,5
+Cluster_262,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,75.07,Low confidence / possible divergent,140,0.09,19
+Cluster_950,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichocephalida;Trichocephalida_sp.;,75.49,Low confidence / possible divergent,139,0.09,18
+Cluster_989,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,75.87,Low confidence / possible divergent,138,0.09,9
+Cluster_342,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,72.46,Low confidence / possible divergent,137,0.09,18
+Cluster_106,Eukaryota;TSAR;Alveolata;Perkinsea;Perkinsea_X;Perkinsea_XX;Perkinsea_XXX;Perkinsea_XXXX;Perkinsea_XXXX_sp.;,54.6,Candidate novel taxon,136,0.09,23
+Cluster_806,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,81.57,Confident match,136,0.09,13
+Cluster_387,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Fusarium;Fusarium_sp.;,64.84,Candidate novel taxon,136,0.09,14
+Cluster_750,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.97,Confident match,136,0.09,18
+Cluster_332,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,75.31,Low confidence / possible divergent,136,0.09,17
+Cluster_780,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,74.6,Low confidence / possible divergent,135,0.09,10
+Cluster_796,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,76.17,Low confidence / possible divergent,135,0.09,15
+Cluster_311,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,67.01,Low confidence / possible divergent,135,0.09,15
+Cluster_115,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium_catenella;,66.84,Low confidence / possible divergent,134,0.09,23
+Cluster_1020,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.43,Low confidence / possible divergent,133,0.08,8
+Cluster_537,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Craniata:mito;Craniata_X:mito;Craniata_XX:mito;Myotis:mito;Myotis_capaccinii:mito;,67.57,Low confidence / possible divergent,133,0.08,18
+Cluster_639,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.91,Low confidence / possible divergent,130,0.08,18
+Cluster_221,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,65.14,Low confidence / possible divergent,130,0.08,12
+Cluster_530,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Metopidae;Metopidae_X;Metopidae_X_sp.;,74.55,Low confidence / possible divergent,130,0.08,15
+Cluster_456,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,68.0,Low confidence / possible divergent,129,0.08,14
+Cluster_788,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.94,Low confidence / possible divergent,129,0.08,15
+Cluster_1007,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_sp.;,82.05,Confident match,128,0.08,15
+Cluster_657,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,81.34,Confident match,128,0.08,15
+Cluster_690,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,71.89,Low confidence / possible divergent,128,0.08,20
+Cluster_1004,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,81.41,Confident match,128,0.08,14
+Cluster_722,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,85.51,Confident match,127,0.08,19
+Cluster_180,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Neogloboquadrina;Neogloboquadrina_pachyderma;,70.22,Low confidence / possible divergent,127,0.08,52
+Cluster_648,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,79.9,Low confidence / possible divergent,127,0.08,11
+Cluster_705,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,74.68,Low confidence / possible divergent,125,0.08,19
+Cluster_461,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,70.91,Low confidence / possible divergent,125,0.08,24
+Cluster_764,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,76.52,Low confidence / possible divergent,124,0.08,15
+Cluster_684,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,78.84,Low confidence / possible divergent,123,0.08,12
+Cluster_450,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_sp.;,60.87,Candidate novel taxon,122,0.08,16
+Cluster_651,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,76.91,Low confidence / possible divergent,122,0.08,11
+Cluster_895,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,72.13,Low confidence / possible divergent,122,0.08,13
+Cluster_550,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,74.61,Low confidence / possible divergent,121,0.08,21
+Cluster_319,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,57.89,Candidate novel taxon,121,0.08,11
+Cluster_708,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_sp.;,75.89,Low confidence / possible divergent,121,0.08,11
+Cluster_312,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,61.99,Candidate novel taxon,120,0.08,21
+Cluster_592,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,72.11,Low confidence / possible divergent,120,0.08,8
+Cluster_374,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.54,Low confidence / possible divergent,120,0.08,18
+Cluster_973,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.1,Low confidence / possible divergent,119,0.08,12
+Cluster_139,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymenida_X;Tetrahymenida_X_sp.;,46.87,Candidate novel taxon,119,0.08,18
+Cluster_603,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,71.53,Low confidence / possible divergent,118,0.08,10
+Cluster_377,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,75.57,Low confidence / possible divergent,118,0.08,18
+Cluster_649,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.96,Low confidence / possible divergent,118,0.08,11
+Cluster_635,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia10;Babesia_divergens;,71.82,Low confidence / possible divergent,118,0.08,24
+Cluster_654,Eukaryota;TSAR;Stramenopiles;Gyrista;Pelagophyceae;Pelagomonadales;Pelagomonadales_clade_B;Pelagomonadales_clade_B4;Pelagomonadales_clade_B4_sp.;,72.99,Low confidence / possible divergent,117,0.07,10
+Cluster_761,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.16,Low confidence / possible divergent,115,0.07,15
+Cluster_935,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,78.67,Low confidence / possible divergent,115,0.07,14
+Cluster_109,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Metopidae;Metopidae_X;Metopidae_X_sp.;,51.73,Candidate novel taxon,114,0.07,17
+Cluster_694,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,68.84,Low confidence / possible divergent,113,0.07,12
+Cluster_145,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Schmidtea;Schmidtea_mediterranea;,49.97,Candidate novel taxon,112,0.07,13
+Cluster_247,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium1;Cryptosporidium1_sp.;,75.32,Low confidence / possible divergent,112,0.07,45
+Cluster_910,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,73.01,Low confidence / possible divergent,112,0.07,13
+Cluster_446,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Orbiliomycetes;Orbilia;Orbilia_laevimarginata;,71.15,Low confidence / possible divergent,111,0.07,20
+Cluster_403,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,34.23,Candidate novel taxon,110,0.07,11
+Cluster_424,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,67.28,Low confidence / possible divergent,109,0.07,9
+Cluster_347,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Cassidulinidae;Islandiella;Islandiella_sp.;,60.12,Candidate novel taxon,109,0.07,15
+Cluster_974,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,75.52,Low confidence / possible divergent,108,0.07,13
+Cluster_645,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,70.95,Low confidence / possible divergent,107,0.07,11
+Cluster_331,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,59.74,Candidate novel taxon,107,0.07,8
+Cluster_322,Eukaryota;Obazoa;Opisthokonta;Metazoa;Craniata;Craniata_X;Teleostei;Tenualosa;Tenualosa_reevesii;,75.6,Low confidence / possible divergent,107,0.07,9
+Cluster_401,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,64.59,Candidate novel taxon,107,0.07,15
+Cluster_999,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,77.63,Low confidence / possible divergent,106,0.07,6
+Cluster_246,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Stigmalychus;Stigmalychus_sp.;,74.58,Low confidence / possible divergent,106,0.07,19
+Cluster_688,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,79.1,Low confidence / possible divergent,106,0.07,11
+Cluster_375,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Cyberlindnera;Cyberlindnera_americana;,71.62,Low confidence / possible divergent,106,0.07,16
+Cluster_875,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,74.99,Low confidence / possible divergent,105,0.07,16
+Cluster_1000,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.01,Low confidence / possible divergent,105,0.07,5
+Cluster_634,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.99,Low confidence / possible divergent,104,0.07,14
+Cluster_308,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.23,Low confidence / possible divergent,103,0.07,15
+Cluster_388,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,38.42,Candidate novel taxon,103,0.07,26
+Cluster_768,Eukaryota;Amoebozoa;Evosea;Evosea_X;Variosea;Protosteliida;Protosteliida_X;Protostelium;Protostelium_mycophagum;,73.4,Low confidence / possible divergent,103,0.07,8
+Cluster_1005,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.95,Low confidence / possible divergent,102,0.06,14
+Cluster_356,Eukaryota;TSAR;Alveolata;Ciliophora;Litostomatea;Haptoria_5;Pleurostomatida;Pleurostomatida_X;Pleurostomatida_X_sp.;,72.35,Low confidence / possible divergent,102,0.06,15
+Cluster_995,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,82.87,Confident match,102,0.06,7
+Cluster_985,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,80.34,Confident match,101,0.06,13
+Cluster_707,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,72.25,Low confidence / possible divergent,100,0.06,9
+Cluster_960,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,72.09,Low confidence / possible divergent,100,0.06,7
+Cluster_112,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,68.36,Low confidence / possible divergent,100,0.06,6
+Cluster_922,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,73.76,Low confidence / possible divergent,100,0.06,26
+Cluster_587,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.61,Low confidence / possible divergent,100,0.06,14
+Cluster_35,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Bolivinitidae;Bolivina;Bolivina_skagerrakensis;,67.71,Low confidence / possible divergent,100,0.06,43
+Cluster_889,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.86,Low confidence / possible divergent,99,0.06,17
+Cluster_586,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,71.51,Low confidence / possible divergent,99,0.06,13
+Cluster_614,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Penicillium;Penicillium_chrysogenum;,81.49,Confident match,99,0.06,15
+Cluster_849,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,80.82,Confident match,99,0.06,11
+Cluster_1010,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,79.11,Low confidence / possible divergent,98,0.06,6
+Cluster_55,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Nassellaria;Collosphaeridae;Disolenia;Disolenia_zanguebarica;,46.59,Candidate novel taxon,97,0.06,10
+Cluster_678,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,80.51,Confident match,97,0.06,13
+Cluster_526,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,73.35,Low confidence / possible divergent,95,0.06,15
+Cluster_370,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Myxogastria_Lucisporidia;Myxogastria_Lucisporidia_X;Trichiidae;Arcyria;Arcyria_cinerea;,56.07,Candidate novel taxon,95,0.06,12
+Cluster_968,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,77.7,Low confidence / possible divergent,94,0.06,11
+Cluster_326,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,39.78,Candidate novel taxon,93,0.06,12
+Cluster_912,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,80.4,Confident match,93,0.06,11
+Cluster_103,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Globorotalia;Globorotalia_ungulata;,60.37,Candidate novel taxon,93,0.06,42
+Cluster_1015,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.47,Low confidence / possible divergent,93,0.06,6
+Cluster_329,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,75.47,Low confidence / possible divergent,93,0.06,14
+Cluster_117,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,80.5,Confident match,92,0.06,9
+Cluster_296,Eukaryota;Obazoa;Opisthokonta;Metazoa;Cnidaria;Cnidaria_X;Staurozoa;Calvadosia;Calvadosia_cruxmelitensis;,72.33,Low confidence / possible divergent,92,0.06,18
+Cluster_665,Eukaryota;TSAR;Alveolata;Ciliophora;CONThreeP;CONThreeP_X;CONThreeP_XX;Askenasia;Askenasia_sp.;,76.57,Low confidence / possible divergent,92,0.06,16
+Cluster_604,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,74.95,Low confidence / possible divergent,91,0.06,13
+Cluster_136,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia10;Babesia_divergens;,71.63,Low confidence / possible divergent,90,0.06,10
+Cluster_481,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Sarcocystidae;Sarcocystis;Sarcocystis_medusiformis;,76.89,Low confidence / possible divergent,90,0.06,12
+Cluster_888,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,71.72,Low confidence / possible divergent,88,0.06,10
+Cluster_454,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,66.8,Low confidence / possible divergent,88,0.06,10
+Cluster_661,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_hoi;,73.72,Low confidence / possible divergent,88,0.06,11
+Cluster_523,Eukaryota;TSAR;Alveolata;Ciliophora;Litostomatea;Litostomatea_X;Litostomatea_XX;Litostomatea_XXX;Litostomatea_XXX_sp.;,76.8,Low confidence / possible divergent,88,0.06,14
+Cluster_77,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,55.09,Candidate novel taxon,88,0.06,10
+Cluster_916,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,77.04,Low confidence / possible divergent,88,0.06,17
+Cluster_272,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.36,Low confidence / possible divergent,87,0.06,12
+Cluster_686,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_polecki;,76.25,Low confidence / possible divergent,87,0.06,9
+Cluster_88,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,49.15,Candidate novel taxon,87,0.06,15
+Cluster_618,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,70.0,Low confidence / possible divergent,86,0.05,12
+Cluster_124,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,52.61,Candidate novel taxon,85,0.05,10
+Cluster_720,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.45,Confident match,85,0.05,8
+Cluster_350,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,75.89,Low confidence / possible divergent,85,0.05,15
+Cluster_1016,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,77.94,Low confidence / possible divergent,85,0.05,8
+Cluster_270,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,74.97,Low confidence / possible divergent,85,0.05,35
+Cluster_527,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,74.04,Low confidence / possible divergent,84,0.05,14
+Cluster_966,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,76.79,Low confidence / possible divergent,83,0.05,14
+Cluster_279,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,62.72,Candidate novel taxon,83,0.05,5
+Cluster_489,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.92,Low confidence / possible divergent,83,0.05,12
+Cluster_842,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Cenococcum;Cenococcum_geophilum;,78.44,Low confidence / possible divergent,83,0.05,14
+Cluster_256,Eukaryota;Excavata;Discoba;Euglenozoa;Euglenida;Petalomonadida;Eupetalomonads_X;Eupetalomonads_XX;Eupetalomonads_XX_sp.;,71.37,Low confidence / possible divergent,82,0.05,17
+Cluster_673,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Powellomycetaceae;Powellomyces;Powellomyces_sp.;,75.77,Low confidence / possible divergent,82,0.05,10
+Cluster_451,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Eugregarinorida;Porosporidae;Porosporidae_X;Porosporidae_X_sp.;,71.84,Low confidence / possible divergent,82,0.05,10
+Cluster_949,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Evaginogenida;Evaginogenida_X;Evaginogenida_X_sp.;,69.82,Low confidence / possible divergent,82,0.05,8
+Cluster_901,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,77.89,Low confidence / possible divergent,82,0.05,13
+Cluster_510,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,77.45,Low confidence / possible divergent,81,0.05,14
+Cluster_511,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,76.21,Low confidence / possible divergent,81,0.05,20
+Cluster_866,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_4;Chilodonellidae;Chilodonella;Chilodonella_sp.;,66.77,Low confidence / possible divergent,81,0.05,10
+Cluster_667,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.32,Low confidence / possible divergent,81,0.05,10
+Cluster_486,Eukaryota;TSAR;Rhizaria;Cercozoa;Filosa-Granofilosea;Filosa-Granofilosea_X;Filosa-Granofilosea_XX;Filosa-Granofilosea_XXX;Filosa-Granofilosea_XXX_sp.;,66.5,Low confidence / possible divergent,81,0.05,16
+Cluster_91,Eukaryota;TSAR;Stramenopiles;Gyrista;Chrysophyceae;Paraphysomonadales;Paraphysomonadaceae;Paraphysomonas;Paraphysomonas_sp.;,51.29,Candidate novel taxon,81,0.05,10
+Cluster_928,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,81.56,Confident match,80,0.05,7
+Cluster_495,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,73.64,Low confidence / possible divergent,80,0.05,9
+Cluster_611,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Glossilus;Glossilus_sp.;,74.79,Low confidence / possible divergent,80,0.05,14
+Cluster_672,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium3;Cryptosporidium3_sp.;,75.48,Low confidence / possible divergent,80,0.05,9
+Cluster_67,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,50.0,Candidate novel taxon,80,0.05,15
+Cluster_855,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,82.96,Confident match,80,0.05,12
+Cluster_724,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,76.29,Low confidence / possible divergent,80,0.05,12
+Cluster_214,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,66.48,Low confidence / possible divergent,79,0.05,35
+Cluster_42,Eukaryota;Amoebozoa;Discosea;Discosea_X;Flabellinia;Vannellida;Vannellida_X;Vannellida_XX;Vannellida_XX_sp.;,59.63,Candidate novel taxon,79,0.05,15
+Cluster_438,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_lestoquardi;,74.49,Low confidence / possible divergent,79,0.05,13
+Cluster_284,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Sarcocystidae;Sarcocystis;Sarcocystis_medusiformis;,75.18,Low confidence / possible divergent,79,0.05,9
+Cluster_795,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.71,Confident match,78,0.05,18
+Cluster_731,Eukaryota;Amoebozoa;Discosea;Discosea_X;Centramoebia;Acanthopodida;Acanthamoebidae;Acanthamoeba;Acanthamoeba_sp.;,73.63,Low confidence / possible divergent,78,0.05,9
+Cluster_608,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,68.12,Low confidence / possible divergent,78,0.05,16
+Cluster_382,Eukaryota;TSAR;Rhizaria;Cercozoa;Sainouroidea;Sainouroidea_X;Guttulinopsidae;Rosculus;Rosculus_vulgaris;,55.63,Candidate novel taxon,78,0.05,11
+Cluster_701,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_polaris;,77.16,Low confidence / possible divergent,77,0.05,12
+Cluster_627,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_polecki;,79.58,Low confidence / possible divergent,77,0.05,8
+Cluster_775,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,77.67,Low confidence / possible divergent,77,0.05,6
+Cluster_285,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Bathycoccaceae;Bathycoccus;Bathycoccus_prasinos;,76.6,Low confidence / possible divergent,77,0.05,32
+Cluster_383,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,66.25,Low confidence / possible divergent,77,0.05,15
+Cluster_569,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,75.76,Low confidence / possible divergent,76,0.05,5
+Cluster_127,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,50.5,Candidate novel taxon,76,0.05,17
+Cluster_827,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Ulkenia;Ulkenia_sp.;,77.64,Low confidence / possible divergent,76,0.05,12
+Cluster_882,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.53,Low confidence / possible divergent,76,0.05,13
+Cluster_576,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,71.01,Low confidence / possible divergent,76,0.05,6
+Cluster_568,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,75.97,Low confidence / possible divergent,76,0.05,15
+Cluster_503,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Lecanoromycetes;Lecidella;Lecidella_euphorea;,74.55,Low confidence / possible divergent,75,0.05,7
+Cluster_152,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Eumycetozoa_X;Dictyosteliida;Dictyosteliida_X;Dictyostelium;Dictyostelium_sp.;,63.29,Candidate novel taxon,75,0.05,7
+Cluster_1008,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,81.53,Confident match,75,0.05,9
+Cluster_412,Eukaryota;TSAR;Stramenopiles;Gyrista;Chrysophyceae;Chrysophyceae_X;Chrysophyceae_XX;Chrysophyceae_XXX;Chrysophyceae_XXX_sp.;,43.35,Candidate novel taxon,75,0.05,13
+Cluster_391,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,62.65,Candidate novel taxon,75,0.05,5
+Cluster_338,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Eugregarinorida;Cephaloidophoridae;Cephaloidophoridae_X;Cephaloidophoridae_X_sp.;,53.06,Candidate novel taxon,75,0.05,11
+Cluster_890,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Tetramitia_VI_X;Paravahlkampfia;Paravahlkampfia_sp.;,76.96,Low confidence / possible divergent,74,0.05,8
+Cluster_38,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium_catenella;,49.71,Candidate novel taxon,74,0.05,35
+Cluster_699,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,73.83,Low confidence / possible divergent,74,0.05,16
+Cluster_209,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Chromadorea;Chromadorea_X;Bursaphelenchus;Bursaphelenchus_sp.;,70.68,Low confidence / possible divergent,74,0.05,16
+Cluster_623,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.24,Low confidence / possible divergent,74,0.05,9
+Cluster_12,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_rostrata;,45.44,Candidate novel taxon,74,0.05,15
+Cluster_923,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Suessiales;Suessiales_X;Suessiales_XX;Suessiales_XX_sp.;,72.64,Low confidence / possible divergent,74,0.05,9
+Cluster_4,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,61.76,Candidate novel taxon,73,0.05,9
+Cluster_280,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,60.97,Candidate novel taxon,73,0.05,10
+Cluster_159,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,53.72,Candidate novel taxon,73,0.05,31
+Cluster_79,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,56.83,Candidate novel taxon,72,0.05,16
+Cluster_3,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_humilis;,53.72,Candidate novel taxon,72,0.05,11
+Cluster_683,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,76.69,Low confidence / possible divergent,72,0.05,9
+Cluster_371,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Cyberlindnera;Cyberlindnera_americana;,68.09,Low confidence / possible divergent,72,0.05,11
+Cluster_498,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,72.96,Low confidence / possible divergent,72,0.05,9
+Cluster_728,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,64.07,Candidate novel taxon,72,0.05,22
+Cluster_744,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,84.83,Confident match,71,0.05,14
+Cluster_213,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Gregarinomorphea_X;Gregarinomorphea_XX;Selenidium1;Selenidium1_sp.;,75.56,Low confidence / possible divergent,71,0.05,33
+Cluster_51,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Bolivinitidae;Bolivina;Bolivina_variabilis;,73.48,Low confidence / possible divergent,70,0.04,13
+Cluster_50,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,58.17,Candidate novel taxon,70,0.04,11
+Cluster_493,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Annelida:mito;Annelida_X:mito;Annelida_XX:mito;Phascolopsis:mito;Phascolopsis_gouldii:mito;,71.91,Low confidence / possible divergent,70,0.04,19
+Cluster_73,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Schmidtea;Schmidtea_mediterranea;,55.02,Candidate novel taxon,69,0.04,15
+Cluster_263,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Prymnesiales;Prymnesiaceae;Prymnesium;Prymnesium_sp.;,76.03,Low confidence / possible divergent,69,0.04,17
+Cluster_166,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Hexapoda;Insecta;Aedes;Aedes_albopictus;,43.26,Candidate novel taxon,69,0.04,16
+Cluster_946,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichocephalida;Trichocephalida_sp.;,74.32,Low confidence / possible divergent,69,0.04,6
+Cluster_1003,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.21,Confident match,68,0.04,7
+Cluster_626,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,73.61,Low confidence / possible divergent,68,0.04,13
+Cluster_588,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,72.6,Low confidence / possible divergent,67,0.04,5
+Cluster_737,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.57,Low confidence / possible divergent,67,0.04,13
+Cluster_352,Eukaryota;TSAR;Rhizaria;Foraminifera;Foraminifera_X;Foraminifera_XX;Foraminifera_XXX;Foraminifera_XXXX;Foraminifera_XXXX_sp.;,53.85,Candidate novel taxon,67,0.04,12
+Cluster_896,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,75.98,Low confidence / possible divergent,67,0.04,10
+Cluster_615,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiomycetaceae;Rhizidium;Rhizidium_sp.;,68.24,Low confidence / possible divergent,66,0.04,13
+Cluster_83,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,52.16,Candidate novel taxon,66,0.04,5
+Cluster_598,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,78.32,Low confidence / possible divergent,65,0.04,13
+Cluster_942,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.0,Low confidence / possible divergent,65,0.04,9
+Cluster_13,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,54.79,Candidate novel taxon,64,0.04,28
+Cluster_727,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,75.49,Low confidence / possible divergent,64,0.04,15
+Cluster_740,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,82.27,Confident match,63,0.04,7
+Cluster_971,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,77.45,Low confidence / possible divergent,63,0.04,6
+Cluster_700,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.98,Low confidence / possible divergent,63,0.04,5
+Cluster_206,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Microplana;Microplana_sp.;,49.93,Candidate novel taxon,63,0.04,10
+Cluster_584,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,75.74,Low confidence / possible divergent,63,0.04,12
+Cluster_143,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lulworthia;Lulworthia_sp.;,54.22,Candidate novel taxon,62,0.04,8
+Cluster_765,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,78.53,Low confidence / possible divergent,62,0.04,7
+Cluster_865,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium9;Cryptosporidium_scrofarum;,73.61,Low confidence / possible divergent,62,0.04,14
+Cluster_800,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,73.5,Low confidence / possible divergent,62,0.04,8
+Cluster_607,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Maxillopoda;Paracalanus;Paracalanus_parvus;,68.35,Low confidence / possible divergent,62,0.04,11
+Cluster_619,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Evaginogenida;Periacineta;Periacineta_mexicana;,70.69,Low confidence / possible divergent,62,0.04,12
+Cluster_435,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Paecilomyces;Paecilomyces_nostocoides;,60.33,Candidate novel taxon,62,0.04,5
+Cluster_379,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,70.11,Low confidence / possible divergent,62,0.04,9
+Cluster_372,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Saccharomyces;Saccharomyces_cerevisiae;,72.22,Low confidence / possible divergent,61,0.04,11
+Cluster_57,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,56.81,Candidate novel taxon,61,0.04,8
+Cluster_944,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,75.47,Low confidence / possible divergent,61,0.04,13
+Cluster_293,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_microti;,63.66,Candidate novel taxon,61,0.04,8
+Cluster_89,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Pucciniomycotina;Cystobasidiomycetes;Rhodotorula;Rhodotorula_sp.;,60.53,Candidate novel taxon,61,0.04,25
+Cluster_670,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Spumellaria;Tholoniidae;Tholomura;Tholomura_transversara;,76.07,Low confidence / possible divergent,61,0.04,12
+Cluster_880,Eukaryota;TSAR;Stramenopiles;Bigyra;Bicoecea;Pseudodendromonadales;Pseudodendromonadales_X;Paramonas;Paramonas_globosa;,82.4,Confident match,61,0.04,8
+Cluster_86,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Gonyaulax;Gonyaulax_sp.;,70.87,Low confidence / possible divergent,61,0.04,9
+Cluster_427,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria;Theileria_sp.;,63.3,Candidate novel taxon,61,0.04,9
+Cluster_291,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,74.61,Low confidence / possible divergent,60,0.04,7
+Cluster_804,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;,76.58,Low confidence / possible divergent,60,0.04,8
+Cluster_756,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,78.41,Low confidence / possible divergent,60,0.04,10
+Cluster_520,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Phoma;Phoma_sp.;,74.05,Low confidence / possible divergent,60,0.04,15
+Cluster_142,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Psalteriomonadidae;Psalteriomonas;Psalteriomonas_australis;,48.51,Candidate novel taxon,60,0.04,9
+Cluster_679,Eukaryota;Obazoa;Opisthokonta;Metazoa;Cnidaria;Cnidaria_X;Staurozoa;Calvadosia;Calvadosia_cruxmelitensis;,75.22,Low confidence / possible divergent,60,0.04,6
+Cluster_597,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Clevelandellida;Nyctotherus_2;Nyctotherus_ovalis;,77.73,Low confidence / possible divergent,60,0.04,7
+Cluster_519,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Neocallimastigales;Neocallimastigaceae;Orpinomyces;Orpinomyces_sp.;,76.76,Low confidence / possible divergent,60,0.04,10
+Cluster_85,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,45.69,Candidate novel taxon,59,0.04,8
+Cluster_807,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,78.4,Low confidence / possible divergent,59,0.04,14
+Cluster_560,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_longipes;,76.61,Low confidence / possible divergent,59,0.04,5
+Cluster_138,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Microplana;Microplana_sp.;,47.58,Candidate novel taxon,59,0.04,9
+Cluster_881,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.96,Low confidence / possible divergent,59,0.04,7
+Cluster_905,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.73,Low confidence / possible divergent,59,0.04,6
+Cluster_406,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Penicillium;Penicillium_sp.;,71.02,Low confidence / possible divergent,58,0.04,16
+Cluster_987,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,78.41,Low confidence / possible divergent,58,0.04,8
+Cluster_572,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia5;Babesia_caballi;,73.67,Low confidence / possible divergent,58,0.04,8
+Cluster_359,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,48.31,Candidate novel taxon,58,0.04,9
+Cluster_650,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;OLIGO2;OLIGO2_X;OLIGO2_X_sp.;,74.45,Low confidence / possible divergent,58,0.04,6
+Cluster_249,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-ruber;,72.01,Low confidence / possible divergent,57,0.04,12
+Cluster_53,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hemolivia;Hemolivia_sp.;,71.77,Low confidence / possible divergent,57,0.04,8
+Cluster_897,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_alternata;,75.2,Low confidence / possible divergent,57,0.04,5
+Cluster_535,Eukaryota;TSAR;Stramenopiles;Bigyra;Bicoecea;Pseudodendromonadales;Pseudodendromonadales_X;Paramonas;Paramonas_globosa;,72.59,Low confidence / possible divergent,57,0.04,8
+Cluster_631,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.91,Low confidence / possible divergent,57,0.04,9
+Cluster_887,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,74.97,Low confidence / possible divergent,56,0.04,5
+Cluster_496,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,62.93,Candidate novel taxon,55,0.03,11
+Cluster_32,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,46.23,Candidate novel taxon,55,0.03,9
+Cluster_164,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,48.1,Candidate novel taxon,55,0.03,15
+Cluster_909,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,81.5,Confident match,55,0.03,9
+Cluster_358,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Eumycetozoa_X;Dictyosteliida;Dictyosteliida_X;Dictyostelium;Dictyostelium_sp.;,70.82,Low confidence / possible divergent,55,0.03,8
+Cluster_362,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_sp.;,77.39,Low confidence / possible divergent,54,0.03,10
+Cluster_49,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,47.17,Candidate novel taxon,54,0.03,8
+Cluster_204,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,66.68,Low confidence / possible divergent,54,0.03,21
+Cluster_447,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_fumigatus;,69.86,Low confidence / possible divergent,54,0.03,8
+Cluster_741,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.05,Low confidence / possible divergent,54,0.03,11
+Cluster_172,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,59.43,Candidate novel taxon,54,0.03,23
+Cluster_863,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Pestalotiopsis;Pestalotiopsis_adusta;,78.28,Low confidence / possible divergent,54,0.03,6
+Cluster_1022,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.75,Low confidence / possible divergent,53,0.03,5
+Cluster_714,Eukaryota;TSAR;Alveolata;Perkinsea;Perkinsida;Perkinsida_X;Perkinsida_XX;Perkinsida_XXX;Perkinsida_XXX_sp.;,76.49,Low confidence / possible divergent,53,0.03,14
+Cluster_655,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Chromadorea;Chromadorea_X;Panagrellus;Panagrellus_levitatus;,67.56,Low confidence / possible divergent,53,0.03,11
+Cluster_559,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,68.58,Low confidence / possible divergent,53,0.03,13
+Cluster_482,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,75.54,Low confidence / possible divergent,53,0.03,8
+Cluster_218,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,71.14,Low confidence / possible divergent,52,0.03,23
+Cluster_525,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_microti;,75.08,Low confidence / possible divergent,52,0.03,9
+Cluster_58,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,71.54,Low confidence / possible divergent,52,0.03,7
+Cluster_766,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,75.39,Low confidence / possible divergent,52,0.03,5
+Cluster_116,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Aurantiochytrium;Aurantiochytrium_sp.;,64.85,Candidate novel taxon,52,0.03,6
+Cluster_68,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,55.1,Candidate novel taxon,52,0.03,7
+Cluster_824,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;,77.05,Low confidence / possible divergent,52,0.03,10
+Cluster_647,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.57,Low confidence / possible divergent,52,0.03,11
+Cluster_984,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.9,Low confidence / possible divergent,52,0.03,8
+Cluster_492,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea;Prorodontida;Urotrichidae;Urotricha;Urotricha_sp.;,79.19,Low confidence / possible divergent,51,0.03,7
+Cluster_930,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.83,Low confidence / possible divergent,51,0.03,7
+Cluster_548,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,78.8,Low confidence / possible divergent,51,0.03,9
+Cluster_733,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,77.36,Low confidence / possible divergent,51,0.03,8
+Cluster_582,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.82,Low confidence / possible divergent,51,0.03,7
+Cluster_529,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium7;Cryptosporidium7_sp.;,63.1,Candidate novel taxon,51,0.03,10
+Cluster_439,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,77.66,Low confidence / possible divergent,51,0.03,6
+Cluster_82,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,56.86,Candidate novel taxon,51,0.03,7
+Cluster_864,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,77.24,Low confidence / possible divergent,50,0.03,8
+Cluster_417,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,79.37,Low confidence / possible divergent,50,0.03,5
+Cluster_302,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Triparticalcar;Triparticalcar_sp.;,81.76,Confident match,50,0.03,10
+Cluster_169,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Pucciniomycotina;Cystobasidiomycetes;Rhodotorula;Rhodotorula_glutinis;,74.33,Low confidence / possible divergent,50,0.03,22
+Cluster_52,Eukaryota;Excavata;Discoba;Euglenozoa;Diplonemea;Diplonemida;Eupelagonemidae;Eupelagonemidae_X;Eupelagonemidae_X_sp.;,78.08,Low confidence / possible divergent,50,0.03,15
+Cluster_932,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,73.85,Low confidence / possible divergent,50,0.03,10
+Cluster_504,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_microti;,71.19,Low confidence / possible divergent,50,0.03,9
+Cluster_725,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Dothideomycetes_X;Dothideomycetes_X_sp.;,72.36,Low confidence / possible divergent,50,0.03,12
+Cluster_680,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,72.6,Low confidence / possible divergent,50,0.03,6
+Cluster_790,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,77.97,Low confidence / possible divergent,50,0.03,12
+Cluster_643,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.71,Low confidence / possible divergent,50,0.03,8
+Cluster_903,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Malacostraca;Macrostylis;Macrostylis_sp.;,74.56,Low confidence / possible divergent,49,0.03,11
+Cluster_921,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.68,Low confidence / possible divergent,49,0.03,6
+Cluster_590,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,77.49,Low confidence / possible divergent,49,0.03,12
+Cluster_574,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,74.29,Low confidence / possible divergent,49,0.03,8
+Cluster_24,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Dinophyceae_X;Dinophyceae_XX;Dinophyceae_XXX;Dinophyceae_XXX_sp.;,42.66,Candidate novel taxon,49,0.03,11
+Cluster_816,Eukaryota;Amoebozoa;Discosea;Discosea_X;Centramoebia;Acanthopodida;Acanthamoebidae;Acanthamoeba;Acanthamoeba_sp.;,76.82,Low confidence / possible divergent,49,0.03,10
+Cluster_217,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,73.37,Low confidence / possible divergent,49,0.03,9
+Cluster_713,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Glossilus;Glossilus_sp.;,74.08,Low confidence / possible divergent,49,0.03,7
+Cluster_924,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichocephalida;Trichocephalida_sp.;,71.36,Low confidence / possible divergent,48,0.03,5
+Cluster_564,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,75.76,Low confidence / possible divergent,48,0.03,9
+Cluster_542,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,74.92,Low confidence / possible divergent,48,0.03,6
+Cluster_656,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,69.28,Low confidence / possible divergent,48,0.03,6
+Cluster_269,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium_catenella;,69.13,Low confidence / possible divergent,48,0.03,24
+Cluster_853,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia7;Babesia_canis_rossi;,74.32,Low confidence / possible divergent,48,0.03,10
+Cluster_399,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,42.34,Candidate novel taxon,48,0.03,13
+Cluster_871,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,73.6,Low confidence / possible divergent,48,0.03,5
+Cluster_95,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Evaginogenida;Evaginogenida_X;Evaginogenida_X_sp.;,61.51,Candidate novel taxon,48,0.03,22
+Cluster_883,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_4;Chilodonellidae;Chilodonella;Chilodonella_sp.;,63.35,Candidate novel taxon,48,0.03,7
+Cluster_307,Eukaryota;Excavata;Metamonada;Parabasalia;Tritrichomonadea;Tritrichomonadida;Dientamoebidae;Histomonas;Histomonas_meleagridis;,71.23,Low confidence / possible divergent,48,0.03,7
+Cluster_717,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,81.96,Confident match,48,0.03,9
+Cluster_965,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,79.59,Low confidence / possible divergent,47,0.03,5
+Cluster_820,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,72.32,Low confidence / possible divergent,47,0.03,9
+Cluster_80,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_rostrata;,49.83,Candidate novel taxon,47,0.03,7
+Cluster_801,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Bathycoccaceae;Ostreococcus;Ostreococcus_sp.;,76.49,Low confidence / possible divergent,47,0.03,6
+Cluster_742,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,81.44,Confident match,47,0.03,9
+Cluster_762,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,79.47,Low confidence / possible divergent,47,0.03,10
+Cluster_600,Eukaryota;TSAR;Alveolata;Ciliophora;CONThreeP;CONThreeP_X;CONThreeP_XX;CONThreeP_XXX;CONThreeP_XXX_sp.;,74.35,Low confidence / possible divergent,47,0.03,8
+Cluster_671,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Diversisporales;Acaulospora;Acaulospora_sp.;,74.98,Low confidence / possible divergent,47,0.03,12
+Cluster_389,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.65,Low confidence / possible divergent,47,0.03,6
+Cluster_408,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chlorophyceae;Sphaeropleales;Sphaeropleales_X;Desmodesmus;Desmodesmus_sp.;,72.7,Low confidence / possible divergent,47,0.03,9
+Cluster_736,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,76.67,Low confidence / possible divergent,46,0.03,11
+Cluster_735,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.69,Low confidence / possible divergent,46,0.03,5
+Cluster_364,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,67.49,Low confidence / possible divergent,46,0.03,6
+Cluster_292,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Psalteriomonadidae;Psalteriomonas;Psalteriomonas_lanterna;,63.75,Candidate novel taxon,46,0.03,10
+Cluster_294,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_lestoquardi;,67.52,Low confidence / possible divergent,46,0.03,9
+Cluster_437,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_alternata;,70.76,Low confidence / possible divergent,46,0.03,5
+Cluster_710,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,77.62,Low confidence / possible divergent,46,0.03,7
+Cluster_428,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,76.31,Low confidence / possible divergent,46,0.03,10
+Cluster_539,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,74.58,Low confidence / possible divergent,46,0.03,10
+Cluster_210,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.13,Low confidence / possible divergent,46,0.03,7
+Cluster_958,Eukaryota;TSAR;Rhizaria;Cercozoa;Filosa-Thecofilosea;Cryomonadida;Cryothecomonas-lineage;Cryothecomonas;Cryothecomonas_sp.;,72.42,Low confidence / possible divergent,46,0.03,5
+Cluster_274,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Novibipalium;Novibipalium_venosum;,64.84,Candidate novel taxon,45,0.03,9
+Cluster_281,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,65.66,Low confidence / possible divergent,45,0.03,8
+Cluster_310,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.87,Low confidence / possible divergent,45,0.03,6
+Cluster_832,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,82.96,Confident match,45,0.03,9
+Cluster_685,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Eugregarinorida;Porosporidae;Porosporidae_X;Porosporidae_X_sp.;,72.74,Low confidence / possible divergent,45,0.03,9
+Cluster_979,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.09,Low confidence / possible divergent,45,0.03,6
+Cluster_941,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria5;Theileria5_sp.;,74.28,Low confidence / possible divergent,45,0.03,7
+Cluster_536,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Knufia;Knufia_sp.;,68.6,Low confidence / possible divergent,45,0.03,6
+Cluster_980,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,77.82,Low confidence / possible divergent,45,0.03,8
+Cluster_188,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Candida;Candida_albicans;,72.23,Low confidence / possible divergent,45,0.03,7
+Cluster_471,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.87,Low confidence / possible divergent,45,0.03,8
+Cluster_6,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,51.68,Candidate novel taxon,45,0.03,20
+Cluster_786,Eukaryota;Obazoa;Opisthokonta;Fungi;Opisthosporidia;Microsporida;Microsporida_X;Microsporidiomycotina_XX;Microsporidiomycotina_XX_sp.;,71.78,Low confidence / possible divergent,45,0.03,11
+Cluster_751,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.32,Low confidence / possible divergent,45,0.03,7
+Cluster_760,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,75.0,Low confidence / possible divergent,45,0.03,6
+Cluster_231,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,57.08,Candidate novel taxon,45,0.03,19
+Cluster_955,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,71.53,Low confidence / possible divergent,44,0.03,7
+Cluster_384,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_sp.;,71.85,Low confidence / possible divergent,44,0.03,11
+Cluster_719,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,71.57,Low confidence / possible divergent,44,0.03,9
+Cluster_963,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.54,Low confidence / possible divergent,44,0.03,9
+Cluster_484,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.18,Low confidence / possible divergent,44,0.03,12
+Cluster_25,Eukaryota;Obazoa;Opisthokonta;Fungi;Opisthosporidia;Microsporida;Microsporida_X;Loma;Loma_salmonae;,39.26,Candidate novel taxon,44,0.03,8
+Cluster_541,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Cenococcum;Cenococcum_geophilum;,74.99,Low confidence / possible divergent,44,0.03,6
+Cluster_581,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,77.3,Low confidence / possible divergent,44,0.03,6
+Cluster_76,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_longipes;,74.54,Low confidence / possible divergent,44,0.03,20
+Cluster_770,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,82.34,Confident match,44,0.03,5
+Cluster_1009,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,77.24,Low confidence / possible divergent,43,0.03,9
+Cluster_203,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,73.68,Low confidence / possible divergent,43,0.03,18
+Cluster_223,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Trilobatus;Trilobatus_sacculifer;,63.93,Candidate novel taxon,43,0.03,21
+Cluster_803,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.6,Low confidence / possible divergent,43,0.03,10
+Cluster_677,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria3;Theileria_capreoli;,78.71,Low confidence / possible divergent,43,0.03,9
+Cluster_508,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,73.01,Low confidence / possible divergent,43,0.03,8
+Cluster_633,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.6,Low confidence / possible divergent,43,0.03,7
+Cluster_351,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,69.43,Low confidence / possible divergent,43,0.03,7
+Cluster_919,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,70.45,Low confidence / possible divergent,43,0.03,8
+Cluster_702,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia6;Babesia_ovis;,67.83,Low confidence / possible divergent,42,0.03,5
+Cluster_787,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,81.67,Confident match,42,0.03,5
+Cluster_268,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Coccolithales;Hymenomonadaceae;Ochrosphaera;Ochrosphaera_sp.;,74.13,Low confidence / possible divergent,42,0.03,11
+Cluster_943,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichocephalida;Trichocephalida_sp.;,78.29,Low confidence / possible divergent,42,0.03,7
+Cluster_92,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Myxogastria_Lucisporidia;Myxogastria_Lucisporidia_X;Trichiidae;Arcyria;Arcyria_cinerea;,65.29,Low confidence / possible divergent,42,0.03,19
+Cluster_945,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,70.5,Low confidence / possible divergent,42,0.03,9
+Cluster_992,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.77,Low confidence / possible divergent,42,0.03,5
+Cluster_675,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Rhizophydiales;Rhizophydiales_X;Rhizophydiales_XX;Rhizophydiales_XX_sp.;,71.31,Low confidence / possible divergent,41,0.03,9
+Cluster_414,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Eumycetozoa_X;Dictyosteliida;Dictyosteliida_X;Dictyostelium;Dictyostelium_sp.;,72.3,Low confidence / possible divergent,41,0.03,5
+Cluster_234,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,72.16,Low confidence / possible divergent,41,0.03,17
+Cluster_140,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.55,Low confidence / possible divergent,41,0.03,7
+Cluster_933,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.33,Confident match,41,0.03,9
+Cluster_191,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,52.96,Candidate novel taxon,41,0.03,17
+Cluster_426,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,61.45,Candidate novel taxon,41,0.03,6
+Cluster_232,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Nassellaria;Eucyrtidiidae;Eucyrtidium;Eucyrtidium_hexastichum;,60.6,Candidate novel taxon,41,0.03,17
+Cluster_834,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.4,Low confidence / possible divergent,41,0.03,6
+Cluster_640,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.99,Low confidence / possible divergent,41,0.03,8
+Cluster_409,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Thraustochytriaceae_LAB17;Thraustochytriaceae_LAB17_sp.;,71.22,Low confidence / possible divergent,40,0.03,7
+Cluster_113,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;RCC391;RCC391_sp.;,57.13,Candidate novel taxon,40,0.03,7
+Cluster_216,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,64.92,Candidate novel taxon,40,0.03,8
+Cluster_367,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,80.48,Confident match,40,0.03,6
+Cluster_902,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,77.91,Low confidence / possible divergent,40,0.03,7
+Cluster_783,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_sp.;,81.61,Confident match,40,0.03,5
+Cluster_506,Eukaryota;Obazoa;Opisthokonta;Fungi;Fungi_X;Fungi_XX;Fungi_XXX;Fungi_XXXX;Fungi_XXXX_sp.;,73.85,Low confidence / possible divergent,40,0.03,7
+Cluster_208,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Neogregarinorida;Actinocephalidae;Hyplorynchus;Hyplorynchus_sp.;,70.17,Low confidence / possible divergent,40,0.03,7
+Cluster_282,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,61.68,Candidate novel taxon,40,0.03,7
+Cluster_487,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Craniata:mito;Craniata_X:mito;Craniata_XX:mito;Myotis:mito;Myotis_capaccinii:mito;,62.89,Candidate novel taxon,40,0.03,8
+Cluster_599,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,70.38,Low confidence / possible divergent,40,0.03,9
+Cluster_429,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.78,Low confidence / possible divergent,39,0.02,7
+Cluster_983,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.06,Low confidence / possible divergent,39,0.02,5
+Cluster_376,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,77.42,Low confidence / possible divergent,39,0.02,5
+Cluster_44,Eukaryota;Obazoa;Opisthokonta;Metazoa;Myxozoa;Myxozoa_X;Myxosporea;Synactinomyxon;Synactinomyxon_sp.;,67.94,Low confidence / possible divergent,39,0.02,7
+Cluster_363,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,37.49,Candidate novel taxon,39,0.02,9
+Cluster_936,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,74.44,Low confidence / possible divergent,39,0.02,8
+Cluster_179,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,72.83,Low confidence / possible divergent,38,0.02,8
+Cluster_265,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Ustilaginomycotina;Exobasidiomycetes;Exobasidiomycetes_X;Exobasidiomycetes_X_sp.;,71.06,Low confidence / possible divergent,38,0.02,10
+Cluster_573,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;,73.16,Low confidence / possible divergent,38,0.02,9
+Cluster_617,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,77.79,Low confidence / possible divergent,38,0.02,5
+Cluster_10,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Globorotalia;Globorotalia_ungulata;,57.42,Candidate novel taxon,38,0.02,15
+Cluster_729,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,81.77,Confident match,38,0.02,10
+Cluster_726,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,76.91,Low confidence / possible divergent,38,0.02,7
+Cluster_419,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Triparticalcar;Triparticalcar_sp.;,72.55,Low confidence / possible divergent,38,0.02,6
+Cluster_490,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium1;Cryptosporidium_parvum;,68.42,Low confidence / possible divergent,38,0.02,5
+Cluster_165,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,46.99,Candidate novel taxon,38,0.02,6
+Cluster_557,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,71.11,Low confidence / possible divergent,38,0.02,6
+Cluster_104,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,52.77,Candidate novel taxon,38,0.02,9
+Cluster_119,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Pedinophyceae:plas;Marsupiomonadales:plas;Marsupiomonadaceae:plas;Protoeuglena:plas;Protoeuglena_noctilucae:plas;,74.53,Low confidence / possible divergent,37,0.02,18
+Cluster_837,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Malacostraca;Macrostylis;Macrostylis_sp.;,74.3,Low confidence / possible divergent,37,0.02,9
+Cluster_629,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_polecki;,77.18,Low confidence / possible divergent,37,0.02,6
+Cluster_318,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.64,Low confidence / possible divergent,37,0.02,7
+Cluster_157,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Schmidtea;Schmidtea_mediterranea;,51.72,Candidate novel taxon,37,0.02,12
+Cluster_874,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Malacostraca;Macrostylis;Macrostylis_sp.;,73.05,Low confidence / possible divergent,37,0.02,7
+Cluster_339,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,71.23,Low confidence / possible divergent,37,0.02,7
+Cluster_509,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,76.61,Low confidence / possible divergent,37,0.02,8
+Cluster_14,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,58.61,Candidate novel taxon,36,0.02,16
+Cluster_160,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Elphidiidae;Elphidium;Elphidium_bartletti;,51.83,Candidate novel taxon,36,0.02,16
+Cluster_170,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Microplana;Microplana_sp.;,48.17,Candidate novel taxon,36,0.02,10
+Cluster_171,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,57.6,Candidate novel taxon,36,0.02,15
+Cluster_337,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiales_X;Chytridiales_XX;Chytridiales_XX_sp.;,40.38,Candidate novel taxon,36,0.02,9
+Cluster_616,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,72.47,Low confidence / possible divergent,36,0.02,7
+Cluster_275,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.4,Low confidence / possible divergent,36,0.02,10
+Cluster_782,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.5,Confident match,36,0.02,7
+Cluster_132,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,67.8,Low confidence / possible divergent,36,0.02,17
+Cluster_533,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,67.85,Low confidence / possible divergent,36,0.02,7
+Cluster_794,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,75.08,Low confidence / possible divergent,36,0.02,6
+Cluster_395,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,70.35,Low confidence / possible divergent,36,0.02,8
+Cluster_745,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,70.56,Low confidence / possible divergent,36,0.02,10
+Cluster_373,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,45.14,Candidate novel taxon,36,0.02,6
+Cluster_173,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,62.67,Candidate novel taxon,36,0.02,14
+Cluster_422,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,66.36,Low confidence / possible divergent,36,0.02,8
+Cluster_479,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,72.11,Low confidence / possible divergent,36,0.02,9
+Cluster_759,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,73.82,Low confidence / possible divergent,36,0.02,6
+Cluster_591,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,73.83,Low confidence / possible divergent,36,0.02,8
+Cluster_59,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Leotiomycetes;Bulgaria;Bulgaria_inquinans;,57.03,Candidate novel taxon,35,0.02,9
+Cluster_1,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Sordariomycetes:mito;Hypocrea:mito;Hypocrea_citrina:mito;,44.55,Candidate novel taxon,35,0.02,7
+Cluster_772,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,80.52,Confident match,35,0.02,7
+Cluster_802,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Clevelandellida;Nyctotherus_2;Nyctotherus_ovalis;,72.36,Low confidence / possible divergent,35,0.02,7
+Cluster_497,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,77.57,Low confidence / possible divergent,35,0.02,7
+Cluster_917,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Scuticociliatia_2_XX;Scuticociliatia_2_XX_sp.;,72.43,Low confidence / possible divergent,35,0.02,5
+Cluster_585,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,78.42,Low confidence / possible divergent,35,0.02,7
+Cluster_121,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium_catenella;,59.07,Candidate novel taxon,35,0.02,11
+Cluster_220,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichinella;Trichinella_spiralis;,74.43,Low confidence / possible divergent,35,0.02,16
+Cluster_193,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Neogloboquadrina;Neogloboquadrina_pachyderma;,76.07,Low confidence / possible divergent,35,0.02,14
+Cluster_267,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia5;Babesia_caballi;,77.22,Low confidence / possible divergent,35,0.02,7
+Cluster_743,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.33,Low confidence / possible divergent,35,0.02,7
+Cluster_459,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,74.65,Low confidence / possible divergent,35,0.02,7
+Cluster_118,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Eimeriidae;Eimeria;Eimeria_suis;,66.71,Low confidence / possible divergent,35,0.02,11
+Cluster_8,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Ustilaginomycotina;Exobasidiomycetes;Malassezia;Malassezia_globosa;,52.28,Candidate novel taxon,34,0.02,7
+Cluster_240,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,79.73,Low confidence / possible divergent,34,0.02,11
+Cluster_838,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,76.17,Low confidence / possible divergent,34,0.02,8
+Cluster_313,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,76.89,Low confidence / possible divergent,34,0.02,7
+Cluster_365,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,73.46,Low confidence / possible divergent,34,0.02,7
+Cluster_343,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,75.44,Low confidence / possible divergent,34,0.02,6
+Cluster_114,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,72.12,Low confidence / possible divergent,34,0.02,8
+Cluster_161,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Trebouxiophyceae:plas;Prasiolales:plas;Prasiolales_X:plas;Stichococcus:plas;Stichococcus_bacillaris:plas;,51.2,Candidate novel taxon,33,0.02,13
+Cluster_219,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia;Babesia_vogeli;,69.06,Low confidence / possible divergent,33,0.02,5
+Cluster_861,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,81.46,Confident match,33,0.02,6
+Cluster_235,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Spumellaria;Spumellaria_4b;Spumellaria_4b_X;Spumellaria_4b_X_sp.;,75.02,Low confidence / possible divergent,33,0.02,10
+Cluster_305,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon1;Hepatozoon_americanum;,73.06,Low confidence / possible divergent,33,0.02,8
+Cluster_33,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,51.53,Candidate novel taxon,33,0.02,5
+Cluster_190,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_longipes;,80.01,Confident match,33,0.02,15
+Cluster_70,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Eugregarinorida;Porosporidae;Porosporidae_X;Porosporidae_X_sp.;,64.6,Candidate novel taxon,33,0.02,5
+Cluster_577,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,73.33,Low confidence / possible divergent,33,0.02,8
+Cluster_283,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Diversisporales;Scutellospora;Scutellospora_sp.;,79.86,Low confidence / possible divergent,33,0.02,9
+Cluster_844,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporaceae;Pleosporaceae_sp.;,76.78,Low confidence / possible divergent,33,0.02,13
+Cluster_706,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,81.76,Confident match,33,0.02,9
+Cluster_87,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,47.99,Candidate novel taxon,32,0.02,10
+Cluster_258,Eukaryota;TSAR;Alveolata;Ciliophora;CONThreeP;CONThreeP_X;CONThreeP_XX;Askenasia;Askenasia_sp.;,59.93,Candidate novel taxon,32,0.02,11
+Cluster_442,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,67.3,Low confidence / possible divergent,32,0.02,7
+Cluster_315,Eukaryota;TSAR;Rhizaria;Foraminifera;Foraminifera_X;Foraminifera_XX;Foraminifera_XXX;Foraminifera_XXXX;Foraminifera_XXXX_sp.;,54.48,Candidate novel taxon,32,0.02,6
+Cluster_178,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Maxillopoda;Acartia;Acartia_omorii;,44.66,Candidate novel taxon,32,0.02,6
+Cluster_341,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria;Theileria_equi;,64.47,Candidate novel taxon,32,0.02,6
+Cluster_202,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,58.3,Candidate novel taxon,32,0.02,7
+Cluster_345,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_sp.;,70.84,Low confidence / possible divergent,32,0.02,6
+Cluster_449,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,73.63,Low confidence / possible divergent,32,0.02,8
+Cluster_229,Eukaryota;Amoebozoa;Discosea;Discosea_X;Centramoebia;Acanthopodida;Acanthamoebidae;Acanthamoeba;Acanthamoeba_castellanii;,62.4,Candidate novel taxon,32,0.02,8
+Cluster_815,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Suessiales;Suessiales_X;Suessiales_XX;Suessiales_XX_sp.;,79.45,Low confidence / possible divergent,32,0.02,5
+Cluster_606,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,75.97,Low confidence / possible divergent,31,0.02,8
+Cluster_666,Eukaryota;TSAR;Rhizaria;Radiolaria;Polycystinea;Spumellaria;Tholoniidae;Tholomura;Tholomura_transversara;,75.59,Low confidence / possible divergent,31,0.02,6
+Cluster_5,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,50.48,Candidate novel taxon,31,0.02,5
+Cluster_266,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Coccolithales;Hymenomonadaceae;Ochrosphaera;Ochrosphaera_sp.;,73.89,Low confidence / possible divergent,31,0.02,11
+Cluster_276,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,66.72,Low confidence / possible divergent,31,0.02,7
+Cluster_811,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Agaricomycotina;Agaricomycetes;Polyporus;Polyporus_melanopus;,75.34,Low confidence / possible divergent,31,0.02,5
+Cluster_501,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_sp.;,75.54,Low confidence / possible divergent,31,0.02,7
+Cluster_900,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,71.3,Low confidence / possible divergent,31,0.02,10
+Cluster_440,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,66.93,Low confidence / possible divergent,31,0.02,7
+Cluster_852,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,79.53,Low confidence / possible divergent,31,0.02,7
+Cluster_774,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,72.15,Low confidence / possible divergent,31,0.02,5
+Cluster_969,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,79.71,Low confidence / possible divergent,31,0.02,7
+Cluster_392,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,71.49,Low confidence / possible divergent,31,0.02,6
+Cluster_926,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.93,Confident match,31,0.02,7
+Cluster_215,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria1;Theileria_orientalis;,69.61,Low confidence / possible divergent,31,0.02,14
+Cluster_102,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,67.6,Low confidence / possible divergent,31,0.02,7
+Cluster_156,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Psalteriomonadidae;Psalteriomonas;Psalteriomonas_australis;,38.41,Candidate novel taxon,31,0.02,7
+Cluster_158,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Symbiontida_XX;Symbiontida_XXX;Symbiontida_XXX_sp.;,59.94,Candidate novel taxon,30,0.02,14
+Cluster_1011,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,81.66,Confident match,30,0.02,6
+Cluster_211,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chlorophyceae;Sphaeropleales;Sphaeropleales_X;Desmodesmus;Desmodesmus_sp.;,73.06,Low confidence / possible divergent,30,0.02,7
+Cluster_17,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-albus;,42.83,Candidate novel taxon,30,0.02,13
+Cluster_565,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,73.66,Low confidence / possible divergent,30,0.02,5
+Cluster_430,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.72,Low confidence / possible divergent,30,0.02,9
+Cluster_174,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,65.33,Low confidence / possible divergent,30,0.02,11
+Cluster_669,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Cenococcum;Cenococcum_geophilum;,79.31,Low confidence / possible divergent,30,0.02,5
+Cluster_908,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,68.12,Low confidence / possible divergent,30,0.02,5
+Cluster_814,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,78.36,Low confidence / possible divergent,30,0.02,6
+Cluster_781,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,82.02,Confident match,30,0.02,8
+Cluster_894,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.84,Low confidence / possible divergent,30,0.02,8
+Cluster_335,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Diversisporales;Scutellospora;Scutellospora_sp.;,71.16,Low confidence / possible divergent,30,0.02,5
+Cluster_242,Eukaryota;Obazoa;Opisthokonta;Fungi;Fungi_X;Fungi_XX;Fungi_XXX;Fungi_XXXX;Fungi_XXXX_sp.;,72.91,Low confidence / possible divergent,30,0.02,5
+Cluster_868,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_deliquescens;,79.62,Low confidence / possible divergent,29,0.02,5
+Cluster_562,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Labyrinthulaceae;Labyrinthula;Labyrinthula_sp.;,80.29,Confident match,29,0.02,6
+Cluster_153,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cristigera;Cristigera_sp.;,59.75,Candidate novel taxon,29,0.02,13
+Cluster_200,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,68.42,Low confidence / possible divergent,29,0.02,13
+Cluster_261,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,78.23,Low confidence / possible divergent,29,0.02,6
+Cluster_505,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,69.56,Low confidence / possible divergent,29,0.02,6
+Cluster_948,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,72.35,Low confidence / possible divergent,29,0.02,8
+Cluster_602,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_alternata;,72.03,Low confidence / possible divergent,29,0.02,8
+Cluster_691,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.65,Low confidence / possible divergent,29,0.02,10
+Cluster_397,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,79.05,Low confidence / possible divergent,29,0.02,7
+Cluster_628,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,70.28,Low confidence / possible divergent,29,0.02,5
+Cluster_478,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,73.35,Low confidence / possible divergent,29,0.02,5
+Cluster_758,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,77.52,Low confidence / possible divergent,29,0.02,5
+Cluster_954,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,72.28,Low confidence / possible divergent,28,0.02,8
+Cluster_637,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.85,Low confidence / possible divergent,28,0.02,5
+Cluster_822,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Cyrtophoria_1;PHYLL_4;PHYLL_4_X;PHYLL_4_X_sp.;,75.65,Low confidence / possible divergent,28,0.02,8
+Cluster_578,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,75.33,Low confidence / possible divergent,28,0.02,6
+Cluster_610,Eukaryota;Excavata;Discoba;Euglenozoa;Kinetoplastea;Prokinetoplastida;Ichthyobodonidae;Ichthyobodo;Ichthyobodo_necator;,78.78,Low confidence / possible divergent,28,0.02,5
+Cluster_779,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.73,Low confidence / possible divergent,28,0.02,7
+Cluster_784,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,72.26,Low confidence / possible divergent,28,0.02,7
+Cluster_668,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,77.74,Low confidence / possible divergent,28,0.02,7
+Cluster_393,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia9;Babesia_gibsoni;,73.89,Low confidence / possible divergent,28,0.02,7
+Cluster_402,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,69.37,Low confidence / possible divergent,28,0.02,6
+Cluster_147,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_tropicalis;,37.18,Candidate novel taxon,28,0.02,5
+Cluster_532,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,71.85,Low confidence / possible divergent,28,0.02,5
+Cluster_978,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.94,Low confidence / possible divergent,28,0.02,6
+Cluster_543,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,74.13,Low confidence / possible divergent,28,0.02,6
+Cluster_101,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_sp.;,71.31,Low confidence / possible divergent,28,0.02,10
+Cluster_48,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Chromadorea;Chromadorea_X;Aphelenchoides;Aphelenchoides_sp.;,52.67,Candidate novel taxon,28,0.02,6
+Cluster_418,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Eimeriidae;Eimeria;Eimeria_sp.;,65.85,Low confidence / possible divergent,28,0.02,9
+Cluster_309,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Sarcocystidae;Sarcocystis5;Sarcocystis_cruzi;,76.42,Low confidence / possible divergent,28,0.02,8
+Cluster_746,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,76.28,Low confidence / possible divergent,28,0.02,6
+Cluster_69,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,64.2,Candidate novel taxon,28,0.02,5
+Cluster_236,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Prymnesiales;Prymnesiaceae;Prymnesium;Prymnesium_sp.;,73.9,Low confidence / possible divergent,27,0.02,7
+Cluster_100,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Diversisporales;Scutellospora;Scutellospora_sp.;,76.83,Low confidence / possible divergent,27,0.02,5
+Cluster_927,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.74,Low confidence / possible divergent,27,0.02,5
+Cluster_108,Eukaryota;TSAR;Alveolata;Perkinsea;Perkinsea_X;Perkinsea_XX;Perkinsea_XXX;Perkinsea_XXXX;Perkinsea_XXXX_sp.;,52.58,Candidate novel taxon,27,0.02,5
+Cluster_876,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,74.14,Low confidence / possible divergent,27,0.02,7
+Cluster_595,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Mamiellophyceae;Mamiellales;Mamiellaceae;Micromonas;Micromonas_pusilla;,80.48,Confident match,27,0.02,7
+Cluster_463,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Rhabdocoela;Rhabdocoela_X;Rhabdocoela_X_sp.;,69.89,Low confidence / possible divergent,27,0.02,9
+Cluster_64,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Tokophryidae;Tokophrya;Tokophrya_sp.;,73.63,Low confidence / possible divergent,27,0.02,12
+Cluster_299,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.22,Low confidence / possible divergent,27,0.02,5
+Cluster_105,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Endogenida_2;Endogenida_2_X;Endogenida_2_X_sp.;,70.02,Low confidence / possible divergent,27,0.02,5
+Cluster_534,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,75.88,Low confidence / possible divergent,27,0.02,5
+Cluster_134,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Schmidtea;Schmidtea_mediterranea;,60.99,Candidate novel taxon,27,0.02,5
+Cluster_146,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_limacis;,47.79,Candidate novel taxon,26,0.02,5
+Cluster_937,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Trebouxiophyceae;Microthamniales;Microthamniales_X;Trebouxia;Trebouxia_sp.;,71.89,Low confidence / possible divergent,26,0.02,5
+Cluster_553,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,68.25,Low confidence / possible divergent,26,0.02,7
+Cluster_162,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,49.74,Candidate novel taxon,26,0.02,10
+Cluster_141,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_niger;,46.06,Candidate novel taxon,26,0.02,5
+Cluster_613,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.99,Low confidence / possible divergent,26,0.02,5
+Cluster_154,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.53,Low confidence / possible divergent,26,0.02,5
+Cluster_63,Eukaryota;TSAR;Stramenopiles;Gyrista;Peronosporomycetes;Peronosporomycetes_X;Peronosporales;Phytophthora;Phytophthora_infestans;,75.85,Low confidence / possible divergent,26,0.02,6
+Cluster_653,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,75.73,Low confidence / possible divergent,26,0.02,5
+Cluster_641,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,75.87,Low confidence / possible divergent,26,0.02,6
+Cluster_663,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,75.48,Low confidence / possible divergent,26,0.02,5
+Cluster_448,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria1;Theileria_orientalis;,83.51,Confident match,26,0.02,6
+Cluster_658,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Thraustochytrium;Thraustochytrium_sp.;,77.8,Low confidence / possible divergent,26,0.02,8
+Cluster_549,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.06,Low confidence / possible divergent,26,0.02,6
+Cluster_29,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,51.11,Candidate novel taxon,26,0.02,6
+Cluster_317,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globobuliminidae;Globobulimina;Globobulimina_sp.;,74.62,Low confidence / possible divergent,26,0.02,7
+Cluster_360,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Dendrocoelum;Dendrocoelum_lacteum;,57.08,Candidate novel taxon,26,0.02,5
+Cluster_711,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,83.46,Confident match,26,0.02,5
+Cluster_34,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,55.3,Candidate novel taxon,26,0.02,12
+Cluster_328,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Gonyaulacales;Pyrocystaceae;Alexandrium;Alexandrium_catenella;,54.82,Candidate novel taxon,26,0.02,6
+Cluster_31,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Haemogregarinidae;Haemogregarina;Haemogregarina_sp.;,50.21,Candidate novel taxon,26,0.02,11
+Cluster_491,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,75.73,Low confidence / possible divergent,26,0.02,7
+Cluster_819,Eukaryota;TSAR;Alveolata;Ciliophora;Armophorea;Armophorea_X;Clevelandellida;Nyctotherus_2;Nyctotherus_ovalis;,79.96,Low confidence / possible divergent,26,0.02,6
+Cluster_22,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_humilis;,61.74,Candidate novel taxon,25,0.02,12
+Cluster_194,Eukaryota;Excavata;Discoba;Euglenozoa;Kinetoplastea;Prokinetoplastida;Ichthyobodonidae;Ichthyobodonidae_X;Ichthyobodonidae_X_sp.;,65.78,Low confidence / possible divergent,25,0.02,11
+Cluster_45,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,61.92,Candidate novel taxon,25,0.02,5
+Cluster_405,Eukaryota;TSAR;Stramenopiles;Gyrista;Peronosporomycetes;Peronosporomycetes_X;Olpidophydiales;Olpidiopsis;Olpidiopsis_pyropiae;,57.04,Candidate novel taxon,25,0.02,9
+Cluster_545,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium3;Cryptosporidium3_sp.;,77.13,Low confidence / possible divergent,25,0.02,5
+Cluster_622,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,76.12,Low confidence / possible divergent,25,0.02,6
+Cluster_323,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria5;Theileria_cervi;,74.44,Low confidence / possible divergent,25,0.02,6
+Cluster_96,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,69.12,Low confidence / possible divergent,25,0.02,12
+Cluster_78,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_hominis;,62.11,Candidate novel taxon,25,0.02,5
+Cluster_575,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,75.2,Low confidence / possible divergent,25,0.02,5
+Cluster_485,Eukaryota;Archaeplastida;Prasinodermophyta;Prasinodermophyta_X;Prasinodermophyceae;Prasinodermales;Prasinodermaceae;Prasinoderma;Prasinoderma_singularis;,71.4,Low confidence / possible divergent,24,0.02,7
+Cluster_480,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,68.98,Low confidence / possible divergent,24,0.02,5
+Cluster_589,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria5;Theileria_ovis;,77.14,Low confidence / possible divergent,24,0.02,5
+Cluster_436,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,70.29,Low confidence / possible divergent,24,0.02,6
+Cluster_552,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.13,Low confidence / possible divergent,24,0.02,6
+Cluster_133,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,63.35,Candidate novel taxon,24,0.02,5
+Cluster_931,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.35,Low confidence / possible divergent,24,0.02,6
+Cluster_517,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_sp.;,69.76,Low confidence / possible divergent,24,0.02,5
+Cluster_123,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Bdelloura;Bdelloura_candida;,61.09,Candidate novel taxon,24,0.02,6
+Cluster_789,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,81.19,Confident match,24,0.02,7
+Cluster_355,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,70.55,Low confidence / possible divergent,24,0.02,5
+Cluster_122,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Eimeriida;Eimeriidae;Lankesterella;Lankesterella_sp.;,51.57,Candidate novel taxon,24,0.02,5
+Cluster_20,Eukaryota;Amoebozoa;Discosea;Discosea_X;Centramoebia;Himatismenida;Himatismenida_X;Squamamoeba;Squamamoeba_japonica;,57.02,Candidate novel taxon,24,0.02,11
+Cluster_187,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonadidae_X;Trichomonadidae_X_sp.;,73.62,Low confidence / possible divergent,24,0.02,10
+Cluster_90,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,68.42,Low confidence / possible divergent,24,0.02,11
+Cluster_466,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Orbiliomycetes;Arthrobotrys;Arthrobotrys_guizhouensis;,68.02,Low confidence / possible divergent,24,0.02,5
+Cluster_66,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,48.98,Candidate novel taxon,24,0.02,5
+Cluster_561,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,73.69,Low confidence / possible divergent,23,0.01,6
+Cluster_869,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,82.05,Confident match,23,0.01,5
+Cluster_612,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Suessiales;Suessiales_X;Suessiales_XX;Suessiales_XX_sp.;,79.02,Low confidence / possible divergent,23,0.01,6
+Cluster_859,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Sporothrix;Sporothrix_sp.;,76.78,Low confidence / possible divergent,23,0.01,5
+Cluster_799,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,78.08,Low confidence / possible divergent,23,0.01,5
+Cluster_278,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Myxogastria_Lucisporidia;Myxogastria_Lucisporidia_X;Trichiidae;Arcyria;Arcyria_cinerea;,63.14,Candidate novel taxon,23,0.01,6
+Cluster_696,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chlorophyceae;Sphaeropleales;Sphaeropleales_X;Neochloris;Neochloris_conjuncta;,75.75,Low confidence / possible divergent,23,0.01,5
+Cluster_346,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Tetramitia_VI;Psalteriomonadidae;Harpagon;Harpagon_sp.;,73.2,Low confidence / possible divergent,23,0.01,5
+Cluster_723,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,74.51,Low confidence / possible divergent,23,0.01,5
+Cluster_378,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,73.79,Low confidence / possible divergent,23,0.01,9
+Cluster_620,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,72.96,Low confidence / possible divergent,23,0.01,9
+Cluster_411,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,70.58,Low confidence / possible divergent,23,0.01,5
+Cluster_368,Bacteria;FCB;Bacteroidetes;Bacteroidetes_X;Bacteroidia;Bacteroidales;Rikenellaceae;BCf917_termite_group;BCf917_termite_group_sp.;,53.98,Candidate novel taxon,23,0.01,5
+Cluster_847,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,72.53,Low confidence / possible divergent,23,0.01,6
+Cluster_244,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,71.92,Low confidence / possible divergent,23,0.01,10
+Cluster_773,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,77.95,Low confidence / possible divergent,23,0.01,5
+Cluster_441,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,68.4,Low confidence / possible divergent,23,0.01,5
+Cluster_547,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,68.97,Low confidence / possible divergent,22,0.01,8
+Cluster_925,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,78.62,Low confidence / possible divergent,22,0.01,5
+Cluster_920,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,68.33,Low confidence / possible divergent,22,0.01,7
+Cluster_464,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.76,Low confidence / possible divergent,22,0.01,5
+Cluster_747,Eukaryota;Archaeplastida;Prasinodermophyta;Prasinodermophyta_X;Palmophyllophyceae;Prasinococcales;Prasinococcaceae;Prasinococcus;Prasinococcus_sp.;,75.96,Low confidence / possible divergent,22,0.01,6
+Cluster_314,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.56,Low confidence / possible divergent,22,0.01,5
+Cluster_692,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_alternata;,73.1,Low confidence / possible divergent,22,0.01,6
+Cluster_570,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,76.55,Low confidence / possible divergent,22,0.01,7
+Cluster_500,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,72.47,Low confidence / possible divergent,22,0.01,6
+Cluster_225,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,53.5,Candidate novel taxon,22,0.01,10
+Cluster_959,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,72.09,Low confidence / possible divergent,22,0.01,5
+Cluster_512,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,78.07,Low confidence / possible divergent,21,0.01,6
+Cluster_986,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,79.27,Low confidence / possible divergent,21,0.01,5
+Cluster_131,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,68.47,Low confidence / possible divergent,21,0.01,9
+Cluster_23,Eukaryota;TSAR;Alveolata;Ciliophora;Ciliophora_X;Ciliophora_XX;Ciliophora_XXX;Mesodinium;Mesodinium_sp.;,53.49,Candidate novel taxon,21,0.01,9
+Cluster_107,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,69.91,Low confidence / possible divergent,21,0.01,10
+Cluster_21,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-albus;,53.67,Candidate novel taxon,21,0.01,6
+Cluster_841,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,80.66,Confident match,21,0.01,5
+Cluster_843,Eukaryota;Obazoa;Opisthokonta;Fungi;Basidiomycota;Wallemiomycetes;Wallemiales;Wallemia;Wallemia_hederae;,74.93,Low confidence / possible divergent,21,0.01,6
+Cluster_840,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,69.8,Low confidence / possible divergent,21,0.01,5
+Cluster_255,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Prymnesiophyceae_X;Braarudosphaeraceae;Braarudosphaeraceae_X;Braarudosphaeraceae_X_sp.;,72.05,Low confidence / possible divergent,21,0.01,6
+Cluster_324,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_bovis;,74.23,Low confidence / possible divergent,21,0.01,8
+Cluster_394,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,72.06,Low confidence / possible divergent,21,0.01,6
+Cluster_870,Eukaryota;TSAR;Alveolata;Ciliophora;Plagiopylea;Plagiopylea_X;Plagiopylidae;Plagiopylidae_X;Plagiopylidae_X_sp.;,70.23,Low confidence / possible divergent,21,0.01,6
+Cluster_938,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,73.95,Low confidence / possible divergent,21,0.01,8
+Cluster_907,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Crustacea;Malacostraca;Macrostylis;Macrostylis_sp.;,72.33,Low confidence / possible divergent,21,0.01,8
+Cluster_624,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,81.24,Confident match,21,0.01,5
+Cluster_507,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,71.22,Low confidence / possible divergent,21,0.01,6
+Cluster_845,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,78.38,Low confidence / possible divergent,20,0.01,5
+Cluster_228,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Enoplea;Enoplea_X;Trichinella;Trichinella_spiralis;,76.92,Low confidence / possible divergent,20,0.01,10
+Cluster_303,Eukaryota;Obazoa;Opisthokonta;Metazoa;Arthropoda;Chelicerata;Arachnida;Stigmalychus;Stigmalychus_sp.;,74.59,Low confidence / possible divergent,20,0.01,5
+Cluster_248,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;PHYLL_3;PHYLL_3_X;PHYLL_3_X_sp.;,62.66,Candidate novel taxon,20,0.01,9
+Cluster_238,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,77.75,Low confidence / possible divergent,20,0.01,5
+Cluster_41,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,62.71,Candidate novel taxon,20,0.01,5
+Cluster_410,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,71.8,Low confidence / possible divergent,20,0.01,5
+Cluster_732,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Lanspora;Lanspora_coronata;,77.36,Low confidence / possible divergent,20,0.01,6
+Cluster_687,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Eugregarinorida;Porosporidae;Porosporidae_X;Porosporidae_X_sp.;,77.56,Low confidence / possible divergent,20,0.01,5
+Cluster_340,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,69.76,Low confidence / possible divergent,20,0.01,5
+Cluster_233,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,66.48,Low confidence / possible divergent,20,0.01,9
+Cluster_260,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium9;Cryptosporidium_ryanae;,60.58,Candidate novel taxon,20,0.01,9
+Cluster_513,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,69.34,Low confidence / possible divergent,20,0.01,6
+Cluster_15,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,62.4,Candidate novel taxon,20,0.01,8
+Cluster_609,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,80.09,Confident match,20,0.01,5
+Cluster_43,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,56.28,Candidate novel taxon,20,0.01,7
+Cluster_396,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,79.01,Low confidence / possible divergent,20,0.01,6
+Cluster_245,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Gregarinomorphea_X_GRE1;Gregarinomorphea_X_GRE1_X;Gregarinomorphea_X_GRE1_XX;Gregarinomorphea_X_GRE1_XX_sp.;,70.6,Low confidence / possible divergent,20,0.01,7
+Cluster_554,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,69.96,Low confidence / possible divergent,20,0.01,5
+Cluster_252,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_longipes;,72.34,Low confidence / possible divergent,20,0.01,8
+Cluster_251,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Alternaria;Alternaria_longipes;,68.37,Low confidence / possible divergent,20,0.01,9
+Cluster_120,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloroparvula;Chloroparvula_pacifica;,76.8,Low confidence / possible divergent,20,0.01,6
+Cluster_777,Eukaryota;TSAR;Stramenopiles;Bigyra;Bicoecea;Pseudodendromonadales;Pseudodendromonadales_X;Paramonas;Paramonas_globosa;,74.16,Low confidence / possible divergent,19,0.01,5
+Cluster_81,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,65.74,Low confidence / possible divergent,19,0.01,8
+Cluster_556,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,72.1,Low confidence / possible divergent,19,0.01,5
+Cluster_9,Eukaryota;Obazoa;Opisthokonta;Fungi;Opisthosporidia;Microsporida;Microsporida_X;Anncaliia;Anncaliia_algerae;,54.62,Candidate novel taxon,19,0.01,9
+Cluster_184,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,77.95,Low confidence / possible divergent,19,0.01,8
+Cluster_682,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,79.47,Low confidence / possible divergent,19,0.01,6
+Cluster_660,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Pestalotiopsis;Pestalotiopsis_adusta;,79.34,Low confidence / possible divergent,19,0.01,6
+Cluster_583,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria2;Theileria_luwenshuni;,76.9,Low confidence / possible divergent,19,0.01,7
+Cluster_457,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria5;Theileria5_sp.;,78.04,Low confidence / possible divergent,19,0.01,5
+Cluster_940,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,80.6,Confident match,19,0.01,5
+Cluster_433,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_lestoquardi;,71.74,Low confidence / possible divergent,19,0.01,6
+Cluster_301,Eukaryota;Amoebozoa;Evosea;Eumycetozoa;Myxogastria_Lucisporidia;Myxogastria_Lucisporidia_X;Trichiidae;Arcyria;Arcyria_cinerea;,60.64,Candidate novel taxon,19,0.01,8
+Cluster_715,Eukaryota;Obazoa;Opisthokonta;Fungi;Mucoromycota;Glomeromycotina;Glomerales;Glomus;Glomus_sp.;,74.83,Low confidence / possible divergent,19,0.01,6
+Cluster_336,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria;Theileria_equi;,62.37,Candidate novel taxon,19,0.01,6
+Cluster_259,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;PHYLL_3;PHYLL_3_X;PHYLL_3_X_sp.;,71.59,Low confidence / possible divergent,19,0.01,9
+Cluster_195,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globorotaliidae;Neogloboquadrina;Neogloboquadrina_pachyderma;,67.75,Low confidence / possible divergent,19,0.01,8
+Cluster_300,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Craniata:mito;Craniata_X:mito;Amphibia:mito;Pristimantis:mito;Pristimantis_orcesi:mito;,69.46,Low confidence / possible divergent,19,0.01,9
+Cluster_241,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerina;Globigerina_falconensis;,65.61,Low confidence / possible divergent,19,0.01,5
+Cluster_39,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Cassidulinidae;Globocassidulina;Globocassidulina_sp.;,65.05,Low confidence / possible divergent,19,0.01,8
+Cluster_334,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,69.14,Low confidence / possible divergent,19,0.01,5
+Cluster_867,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,81.2,Confident match,19,0.01,6
+Cluster_703,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,74.33,Low confidence / possible divergent,19,0.01,8
+Cluster_516,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Triparticalcar;Triparticalcar_sp.;,72.48,Low confidence / possible divergent,19,0.01,5
+Cluster_404,Eukaryota;Excavata;Discoba;Discoba_X;Heterolobosea;Acrasida;Acrasidae;Acrasis;Acrasis_helenhemmesae;,33.94,Candidate novel taxon,18,0.01,5
+Cluster_198,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;PHYLL_3;PHYLL_3_X;PHYLL_3_X_sp.;,77.94,Low confidence / possible divergent,18,0.01,8
+Cluster_196,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,70.69,Low confidence / possible divergent,18,0.01,8
+Cluster_776,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,69.62,Low confidence / possible divergent,18,0.01,5
+Cluster_817,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,71.5,Low confidence / possible divergent,18,0.01,5
+Cluster_797,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,77.9,Low confidence / possible divergent,18,0.01,7
+Cluster_130,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Chytriomyces;Chytriomyces_sp.;,68.0,Low confidence / possible divergent,18,0.01,5
+Cluster_709,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,70.75,Low confidence / possible divergent,18,0.01,6
+Cluster_271,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-ruber;,73.13,Low confidence / possible divergent,18,0.01,6
+Cluster_452,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Mediophyceae:plas;Thalassiosirales:plas;Thalassiosirales_X:plas;Thalassiosirales_XX:plas;Thalassiosirales_XX_sp.:plas;,67.17,Low confidence / possible divergent,18,0.01,5
+Cluster_11,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Elphidiidae;Elphidium;Elphidium_aculeatum;,57.63,Candidate novel taxon,18,0.01,9
+Cluster_488,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,75.82,Low confidence / possible divergent,18,0.01,7
+Cluster_571,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon;Hepatozoon_sp.;,74.26,Low confidence / possible divergent,18,0.01,5
+Cluster_475,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Spizellomycetales;Spizellomycetaceae;Spizellomyces;Spizellomyces_pseudodichotomus;,66.48,Low confidence / possible divergent,18,0.01,8
+Cluster_453,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,71.0,Low confidence / possible divergent,18,0.01,7
+Cluster_738,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,75.46,Low confidence / possible divergent,18,0.01,7
+Cluster_137,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Caenoplana;Caenoplana_coerulea;,49.23,Candidate novel taxon,18,0.01,5
+Cluster_28,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Uvigerinidae;Uvigerina;Uvigerina_peregrina;,50.55,Candidate novel taxon,17,0.01,5
+Cluster_854,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia7;Babesia_canis_rossi;,67.54,Low confidence / possible divergent,17,0.01,5
+Cluster_2,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Cryptodiscus:mito;Cryptodiscus_pini:mito;,51.1,Candidate novel taxon,17,0.01,8
+Cluster_65,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,71.23,Low confidence / possible divergent,17,0.01,8
+Cluster_47,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Bolivinitidae;Bolivina;Bolivina_skagerrakensis;,51.45,Candidate novel taxon,17,0.01,8
+Cluster_36,Eukaryota;Obazoa;Opisthokonta;Metazoa;Platyhelminthes;Turbellaria;Seriata;Schmidtea;Schmidtea_mediterranea;,56.23,Candidate novel taxon,17,0.01,7
+Cluster_287,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Icmadophila:mito;Icmadophila_ericetorum:mito;,67.6,Low confidence / possible divergent,17,0.01,8
+Cluster_197,Eukaryota;Excavata;Discoba;Euglenozoa;Kinetoplastea;Prokinetoplastida;Ichthyobodonidae;Ichthyobodonidae_X;Ichthyobodonidae_X_sp.;,67.56,Low confidence / possible divergent,17,0.01,7
+Cluster_212,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,69.94,Low confidence / possible divergent,17,0.01,7
+Cluster_40,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_chattoni;,63.66,Candidate novel taxon,17,0.01,7
+Cluster_273,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,74.33,Low confidence / possible divergent,17,0.01,5
+Cluster_128,Eukaryota;Obazoa;Opisthokonta;Metazoa;Myxozoa;Myxozoa_X;Myxosporea;Henneguya;Henneguya_shaharini;,47.51,Candidate novel taxon,17,0.01,5
+Cluster_826,Eukaryota;TSAR;Stramenopiles;Bigyra;Sagenista;Labyrinthulomycetes;Thraustochytriaceae;Ulkenia;Ulkenia_sp.;,79.35,Low confidence / possible divergent,17,0.01,5
+Cluster_813,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,76.42,Low confidence / possible divergent,17,0.01,6
+Cluster_981,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,78.7,Low confidence / possible divergent,17,0.01,5
+Cluster_540,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium14;Cryptosporidium14_sp.;,80.13,Confident match,17,0.01,5
+Cluster_957,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,73.1,Low confidence / possible divergent,17,0.01,5
+Cluster_460,Eukaryota;TSAR;Telonemia;Telonemia_X;Telonemia_XX;Telonemia_XXX;Telonemia-Group-2;Telonemia-Group-2_X;Telonemia-Group-2_X_sp.;,67.01,Low confidence / possible divergent,17,0.01,5
+Cluster_473,Eukaryota;TSAR;Stramenopiles;Bigyra;Bicoecea;Pseudodendromonadales;Pseudodendromonadales_X;Paramonas;Paramonas_globosa;,59.96,Candidate novel taxon,17,0.01,6
+Cluster_19,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,62.33,Candidate novel taxon,17,0.01,7
+Cluster_185,Eukaryota;Obazoa;Opisthokonta;Metazoa;Nematoda;Chromadorea;Chromadorea_X;Poikilolaimus;Poikilolaimus_ernstmayri;,73.83,Low confidence / possible divergent,17,0.01,8
+Cluster_71,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Scuticociliatia_2;Scuticociliatia_2_X;Cyclidium_3;Cyclidium_glaucoma;,57.89,Candidate novel taxon,17,0.01,6
+Cluster_286,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Craniata:mito;Craniata_X:mito;Amphibia:mito;Pristimantis:mito;Pristimantis_orcesi:mito;,64.65,Candidate novel taxon,16,0.01,6
+Cluster_111,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,62.94,Candidate novel taxon,16,0.01,6
+Cluster_230,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chlorophyceae;Sphaeropleales;Sphaeropleales_X;Desmodesmus;Desmodesmus_sp.;,66.91,Low confidence / possible divergent,16,0.01,5
+Cluster_129,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Fungi:mito;Ascomycota:mito;Pezizomycotina:mito;Lecanoromycetes:mito;Collema:mito;Collema_curtisporum:mito;,62.58,Candidate novel taxon,16,0.01,6
+Cluster_316,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_lestoquardi;,68.83,Low confidence / possible divergent,16,0.01,5
+Cluster_182,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Tokophryidae;Tokophrya;Tokophrya_sp.;,72.11,Low confidence / possible divergent,16,0.01,7
+Cluster_676,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium3;Cryptosporidium3_sp.;,73.07,Low confidence / possible divergent,16,0.01,5
+Cluster_913,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,72.1,Low confidence / possible divergent,16,0.01,6
+Cluster_718,Eukaryota;Archaeplastida;Chlorophyta;Chlorophyta_X;Chloropicophyceae;Chloropicales;Chloropicaceae;Chloropicon;Chloropicon_roscoffensis;,77.98,Low confidence / possible divergent,16,0.01,6
+Cluster_929,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,81.78,Confident match,16,0.01,5
+Cluster_7,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Diatomeae_X:plas;Diatomeae_XX:plas;Diatomeae_XXX:plas;Diatomeae_XXXX:plas;Diatomeae_XXXX_sp.:plas;,76.61,Low confidence / possible divergent,16,0.01,7
+Cluster_398,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Paecilomyces;Paecilomyces_nostocoides;,63.91,Candidate novel taxon,16,0.01,5
+Cluster_175,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,74.1,Low confidence / possible divergent,15,0.01,6
+Cluster_704,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium_sp.;,74.48,Low confidence / possible divergent,15,0.01,5
+Cluster_18,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Bolivinitidae;Bolivina;Bolivina_skagerrakensis;,56.16,Candidate novel taxon,15,0.01,7
+Cluster_110,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinella;Globigerinella_siphonifera;,64.25,Candidate novel taxon,15,0.01,6
+Cluster_226,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon1;Hepatozoon_americanum;,69.82,Low confidence / possible divergent,15,0.01,5
+Cluster_892,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Babesiidae;Babesia9;Babesia_gibsoni;,64.36,Candidate novel taxon,15,0.01,5
+Cluster_467,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria5;Theileria_parva;,78.57,Low confidence / possible divergent,15,0.01,5
+Cluster_97,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,66.59,Low confidence / possible divergent,15,0.01,6
+Cluster_420,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalozoa_X;MAST-12;MAST-12C;MAST-12C_sp.;,64.5,Candidate novel taxon,15,0.01,5
+Cluster_254,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;PHYLL_3;PHYLL_3_X;PHYLL_3_X_sp.;,68.79,Low confidence / possible divergent,15,0.01,7
+Cluster_601,Eukaryota;TSAR;Alveolata;Perkinsea;Perkinsida;Perkinsida_X;Perkinsida_XX;Perkinsida_XXX;Perkinsida_XXX_sp.;,76.59,Low confidence / possible divergent,14,0.01,5
+Cluster_664,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium10;Cryptosporidium_baileyi;,66.9,Low confidence / possible divergent,14,0.01,5
+Cluster_61,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon3;Hepatozoon3_sp.;,72.69,Low confidence / possible divergent,14,0.01,7
+Cluster_716,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Dothideomycetes;Cladosporium;Cladosporium_herbarum;,74.33,Low confidence / possible divergent,14,0.01,5
+Cluster_168,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.7,Low confidence / possible divergent,14,0.01,7
+Cluster_970,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Amphidomataceae;Azadinium;Azadinium_sp.;,74.74,Low confidence / possible divergent,14,0.01,6
+Cluster_277,Eukaryota;Obazoa;Opisthokonta;Fungi;Fungi_X;Fungi_XX;Fungi_XXX;Fungi_XXXX;Fungi_XXXX_sp.;,63.07,Candidate novel taxon,14,0.01,5
+Cluster_222,Eukaryota:plas;TSAR:plas;Stramenopiles:plas;Gyrista:plas;Bacillariophyceae:plas;Bacillariophyceae_X:plas;Bacillariophyceae_XX:plas;Bacillariophyceae_XXX:plas;Bacillariophyceae_XXX_sp.:plas;,65.36,Low confidence / possible divergent,14,0.01,6
+Cluster_528,Eukaryota;TSAR;Stramenopiles;Gyrista;Bacillariophyceae;Rhabdonematales;Tabellariaceae;Diatoma;Diatoma_tenuis;,72.78,Low confidence / possible divergent,14,0.01,5
+Cluster_468,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Apostomatia;Apostomatia_X;Apostomatia_XX;Apostomatia_XX_sp.;,63.51,Candidate novel taxon,14,0.01,6
+Cluster_199,Eukaryota;Excavata;Discoba;Euglenozoa;Kinetoplastea;Prokinetoplastida;Ichthyobodonidae;Ichthyobodonidae_X;Ichthyobodonidae_X_sp.;,66.23,Low confidence / possible divergent,14,0.01,6
+Cluster_94,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,66.88,Low confidence / possible divergent,14,0.01,6
+Cluster_75,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Globigerinoides;Globigerinoides_ruber-albus;,74.19,Low confidence / possible divergent,13,0.01,5
+Cluster_56,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,68.58,Low confidence / possible divergent,13,0.01,5
+Cluster_126,Eukaryota:mito;Obazoa:mito;Opisthokonta:mito;Metazoa:mito;Craniata:mito;Craniata_X:mito;Lepidosauria:mito;Amphiglossus:mito;Amphiglossus_tsaratananensis:mito;,50.96,Candidate novel taxon,13,0.01,6
+Cluster_638,Eukaryota;Obazoa;Opisthokonta;Fungi;Chytridiomycota;Zygorhizidiales;Zygorhizidiaceae;Zygorhizidium;Zygorhizidium_sp.;,75.29,Low confidence / possible divergent,13,0.01,5
+Cluster_1002,Eukaryota;TSAR;Alveolata;Chrompodellids;Colpodellidea;Vitrelladida;Vitrellaceae;Vitrella;Vitrella_sp.;,80.37,Confident match,13,0.01,5
+Cluster_60,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Leotiomycetes;Bulgaria;Bulgaria_inquinans;,47.12,Candidate novel taxon,13,0.01,5
+Cluster_167,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Elphidiidae;Elphidium;Elphidium_aculeatum;,54.24,Candidate novel taxon,13,0.01,6
+Cluster_183,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,73.02,Low confidence / possible divergent,13,0.01,6
+Cluster_201,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonas;Trichomonas_vaginalis;,74.17,Low confidence / possible divergent,13,0.01,5
+Cluster_288,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium1;Cryptosporidium_parvum;,64.63,Candidate novel taxon,13,0.01,5
+Cluster_237,Eukaryota;Haptista;Haptophyta;Haptophyta_X;Prymnesiophyceae;Prymnesiophyceae_X;Prymnesiophyceae_XX;Prymnesiophyceae_XXX;Prymnesiophyceae_XXX_sp.;,77.06,Low confidence / possible divergent,13,0.01,5
+Cluster_46,Eukaryota;TSAR;Stramenopiles;Bigyra;Opalozoa;Opalinata;Blastocystis-Group;Blastocystis;Blastocystis_sp.;,49.01,Candidate novel taxon,13,0.01,6
+Cluster_181,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,75.19,Low confidence / possible divergent,13,0.01,6
+Cluster_177,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,77.45,Low confidence / possible divergent,13,0.01,5
+Cluster_37,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Pulleniidae;Pullenia;Pullenia_subcarinata;,60.08,Candidate novel taxon,13,0.01,5
+Cluster_98,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,65.3,Low confidence / possible divergent,12,0.01,5
+Cluster_885,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,69.89,Low confidence / possible divergent,12,0.01,5
+Cluster_253,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,70.13,Low confidence / possible divergent,12,0.01,6
+Cluster_227,Eukaryota;TSAR;Alveolata;Ciliophora;Phyllopharyngea;Suctoria;Tokophryidae;Tokophrya;Tokophrya_sp.;,76.72,Low confidence / possible divergent,12,0.01,6
+Cluster_886,Eukaryota;TSAR;Alveolata;Apicomplexa;Gregarinomorphea;Cryptogregarinorida;Cryptosporidiidae;Cryptosporidium;Cryptosporidium_sp.;,63.38,Candidate novel taxon,12,0.01,5
+Cluster_176,Eukaryota;TSAR;Rhizaria;Foraminifera;Globothalamea;Rotaliida;Globigerinidae;Turborotalita;Turborotalita_quinqueloba;,75.55,Low confidence / possible divergent,12,0.01,5
+Cluster_366,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Trichoderma;Trichoderma_sp.;,71.37,Low confidence / possible divergent,12,0.01,5
+Cluster_290,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;Graphium;Graphium_sp.;,71.06,Low confidence / possible divergent,12,0.01,5
+Cluster_189,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Adeleida;Hepatozoidae;Hepatozoon5;Hepatozoon_canis;,73.01,Low confidence / possible divergent,12,0.01,5
+Cluster_192,Eukaryota:plas;Archaeplastida:plas;Chlorophyta:plas;Chlorophyta_X:plas;Ulvophyceae:plas;Bryopsidales:plas;Ostreobiaceae:plas;Ostreobium:plas;Ostreobium_sp.:plas;,74.98,Low confidence / possible divergent,12,0.01,6
+Cluster_250,Eukaryota;TSAR;Alveolata;Apicomplexa;Coccidiomorphea;Piroplasmorida;Theileriidae;Theileria9;Theileria_annulata;,69.63,Low confidence / possible divergent,11,0.01,5
+Cluster_16,Eukaryota;Obazoa;Opisthokonta;Fungi;Ascomycota;Pezizomycotina;Eurotiomycetes;Aspergillus;Aspergillus_neoflavipes;,61.31,Candidate novel taxon,11,0.01,5
+Cluster_499,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Sessilida;Sessilida_X;Sessilida_X_sp.;,71.87,Low confidence / possible divergent,11,0.01,5
+Cluster_483,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Peritrichia_2;Operculariidae;OLIGO1;OLIGO1_sp.;,76.35,Low confidence / possible divergent,11,0.01,5
+Cluster_186,Eukaryota;Excavata;Metamonada;Parabasalia;Trichomonadea;Trichomonadida;Trichomonadidae;Trichomonadidae_X;Trichomonadidae_X_sp.;,71.74,Low confidence / possible divergent,11,0.01,5
+Cluster_99,Eukaryota;Excavata;Discoba;Euglenozoa;Symbiontida;Symbiontida_X;Calkinsiidae;Calkinsia;Calkinsia_aureus;,62.47,Candidate novel taxon,10,0.01,5
+Cluster_125,Eukaryota;TSAR;Alveolata;Ciliophora;Oligohymenophorea;Hymenostomatia;Tetrahymenida;Tetrahymena;Tetrahymena_americanis;,50.34,Candidate novel taxon,10,0.01,5
+Cluster_30,Eukaryota;TSAR;Alveolata;Dinoflagellata;Dinophyceae;Peridiniales;Heterocapsaceae;Heterocapsa;Heterocapsa_sp.;,63.46,Candidate novel taxon,10,0.01,5
+Cluster_62,Eukaryota;Amoebozoa;Evosea;Evosea_X;Archamoebea;Archamoebea_X;Entamoebidae;Entamoeba;Entamoeba_histolytica;,70.7,Low confidence / possible divergent,10,0.01,5
+Cluster_0,Eukaryota;TSAR;Alveolata;Ciliophora;Prostomatea_3;Prostomatea_3_X;Holophryidae;Holophryidae_X;Holophryidae_X_sp.;,52.4,Candidate novel taxon,10,0.01,5

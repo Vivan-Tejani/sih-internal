@@ -1,0 +1,7 @@
+{
+  "species_richness": 1023,
+  "shannon_index": 5.8625,
+  "simpson_index": 0.9921,
+  "chao1_estimate": 1023.0,
+  "total_reads_used": 144776
+}
