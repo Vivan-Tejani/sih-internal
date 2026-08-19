@@ -5,6 +5,8 @@ Team: The Fellowship of the Ring (DJSW 115) | Theme: Blue Economy | Category: So
 
 A database-query-free pipeline that identifies eukaryotic marine organisms directly from raw eDNA reads. The pipeline clusters sequences first and assigns labels second, so novel and database-absent species are discovered rather than discarded.
 
+Live dashboard: [sih-internal-one.vercel.app](https://sih-internal-one.vercel.app)
+
 ## Overview
 
 Deep-sea biodiversity is critical to study but poorly understood. Most organisms in this environment remain unidentified, and existing classification tools depend on reference databases in which deep-sea and Indian Ocean taxa are barely represented. Forcing every read into a known label mislabels or discards the organisms most worth discovering.
@@ -136,8 +138,6 @@ cd sih-internal
 npm install
 npm run dev
 ```
-
-Live dashboard: [sih-internal-one.vercel.app](https://sih-internal-one.vercel.app)
 
 ## Results (Real Sample Run)
 
