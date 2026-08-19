@@ -5,8 +5,6 @@ Team: The Fellowship of the Ring (DJSW 115) | Theme: Blue Economy | Category: So
 
 A database-query-free pipeline that identifies eukaryotic marine organisms directly from raw eDNA reads. The pipeline clusters sequences first and assigns labels second, so novel and database-absent species are discovered rather than discarded.
 
-[![Dashboard](https://img.shields.io/badge/Dashboard-Live-2ea44f)](https://sih-internal-one.vercel.app)
-
 ## Overview
 
 Deep-sea biodiversity is critical to study but poorly understood. Most organisms in this environment remain unidentified, and existing classification tools depend on reference databases in which deep-sea and Indian Ocean taxa are barely represented. Forcing every read into a known label mislabels or discards the organisms most worth discovering.
