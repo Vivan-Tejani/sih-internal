@@ -176,16 +176,16 @@ export default function App() {
 
       {/* Header */}
       <header className="sticky top-0 z-50 bg-[#050a12]/50 backdrop-blur-md border-b border-bio-cyan/20 px-8 py-4 flex justify-between items-center">
-        <div className="flex items-center gap-4">
-          <Dna className="w-8 h-8 text-gray-400" />
+        <div className="flex items-center gap-1">
+          <Dna className="w-5 h-5 text-gray-400" />
           <div>
-            <h1 className="text-xl font-bold tracking-wider text-white">eDNA ASV PIPELINE</h1>
+            <h1 className="text-sm font-bold tracking-wider text-white">eDNA ASV PIPELINE</h1>
             <p className="text-xs text-bio-teal/80 uppercase tracking-widest">Deep-Sea Taxonomic Discovery</p>
           </div>
         </div>
-        <nav ref={navRef} className="hidden md:flex gap-6 text-lg font-medium tracking-wide relative">
+        <nav ref={navRef} className="hidden md:flex gap-2 text-xs font-medium tracking-wide relative">
           <div
-            className="absolute top-1/2 -translate-y-1/2 h-9 rounded-full bg-white/10 backdrop-blur-md border border-white/20 shadow-[0_0_12px_rgba(34,211,238,0.15)] transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] pointer-events-none"
+            className="absolute top-1/2 -translate-y-1/2 h-8 rounded-full bg-white/10 backdrop-blur-md border border-white/20 shadow-[0_0_12px_rgba(34,211,238,0.15)] transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] pointer-events-none"
             style={{ left: sliderStyle.left, width: sliderStyle.width }}
           />
           {[
@@ -212,8 +212,8 @@ export default function App() {
       <main className="max-w-7xl mx-auto px-8 py-12 space-y-12">
         
         {/* Hero / Upload Section */}
-        <section className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-8 shadow-[0_8px_32px_rgba(0,0,0,0.5)] max-w-3xl mx-auto">
-          <h2 className="text-3xl font-light tracking-wide text-white mb-6">Upload Sequence Data</h2>
+        <section className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-4 shadow-[0_8px_32px_rgba(0,0,0,0.5)] max-w-3xl mx-auto">
+          <h2 className="text-lg font-light tracking-wide text-white mb-6">Upload Sequence Data</h2>
           
           <div 
             className={`border-2 border-dashed rounded-xl p-10 text-center transition-all duration-300 ${
@@ -226,20 +226,20 @@ export default function App() {
             onDrop={handleDrop}
           >
             {!file ? (
-              <div className="flex flex-col items-center gap-4 cursor-pointer" onClick={() => fileInputRef.current?.click()}>
-                <div className="p-4 bg-bio-cyan/10 rounded-full">
-                  <UploadCloud className="w-10 h-10 text-bio-cyan" />
+              <div className="flex flex-col items-center gap-1 cursor-pointer" onClick={() => fileInputRef.current?.click()}>
+                <div className="p-2 bg-bio-cyan/10 rounded-full">
+                  <UploadCloud className="w-8 h-8 text-bio-cyan" />
                 </div>
                 <div>
-                  <p className="text-lg font-medium text-gray-200">Drag & drop or click to browse</p>
-                  <p className="text-sm text-gray-400 mt-2">Supports FASTA (.fa, .fasta) and CSV ASV tables</p>
+                  <p className="text-xs font-medium text-gray-200">Drag & drop or click to browse</p>
+                  <p className="text-xs text-gray-400 mt-2">Supports FASTA (.fa, .fasta) and CSV ASV tables</p>
                 </div>
               </div>
             ) : (
-              <div className="flex items-center justify-between bg-[#050a12]/80 p-4 rounded-lg border border-bio-teal/30">
-                <div className="flex items-center gap-4">
+              <div className="flex items-center justify-between bg-[#050a12]/80 p-2 rounded-lg border border-bio-teal/30">
+                <div className="flex items-center gap-1">
                   <div className="p-2 bg-bio-teal/20 rounded">
-                    <UploadCloud className="w-6 h-6 text-bio-teal" />
+                    <UploadCloud className="w-5 h-5 text-bio-teal" />
                   </div>
                   <div className="text-left">
                     <p className="font-medium text-white truncate max-w-[200px] sm:max-w-xs">{file.name}</p>
@@ -264,29 +264,29 @@ export default function App() {
             />
           </div>
 
-          <div className="mt-8 flex flex-col md:flex-row md:items-center justify-between gap-4">
-            <div className="flex items-center gap-2">
+          <div className="mt-8 flex flex-col md:flex-row md:items-center justify-between gap-1">
+            <div className="flex items-center gap-1">
               {hasRun && isSampleData ? (
                 <>
                   <div className="w-2.5 h-2.5 rounded-full bg-bio-cyan"></div>
-                  <p className="text-sm text-bio-cyan">Sample run loaded — {SAMPLE_RUN.totalRows} clusters analyzed.</p>
+                  <p className="text-xs text-bio-cyan">Sample run loaded — {SAMPLE_RUN.totalRows} clusters analyzed.</p>
                 </>
               ) : (
                 <>
                   <div className={`w-2.5 h-2.5 rounded-full ${!file && !hasRun ? 'bg-gray-600' : 'bg-bio-cyan animate-pulse'}`}></div>
-                  <p className="text-sm text-gray-400">
+                  <p className="text-xs text-gray-400">
                     {hasRun ? 'Pipeline complete.' : file ? 'Pipeline ready. Awaiting execution.' : 'Awaiting data input.'}
                   </p>
                 </>
               )}
             </div>
             
-            <div className="flex flex-col items-end gap-2">
-              <div className="flex gap-4 items-center">
+            <div className="flex flex-col items-end gap-1">
+              <div className="flex gap-1 items-center">
                 <button 
                   onClick={loadSampleRun}
                   disabled={isProcessing}
-                  className={`flex items-center gap-2 px-8 py-3 rounded-lg font-medium tracking-wide transition-all duration-300 ${
+                  className={`flex items-center gap-1 px-8 py-2 rounded-lg font-medium tracking-wide transition-all duration-300 ${
                     isProcessing
                       ? 'bg-gray-700 text-gray-300 cursor-wait animate-pulse'
                       : hasRun
@@ -312,7 +312,7 @@ export default function App() {
         </section>
 
         {/* Stat Cards */}
-        <section className={`grid grid-cols-2 md:grid-cols-5 gap-4 transition-all duration-700 ${statsAnimated ? 'opacity-100 translate-y-0' : 'opacity-90 translate-y-2'}`}>
+        <section className={`grid grid-cols-2 md:grid-cols-5 gap-1 transition-all duration-700 ${statsAnimated ? 'opacity-100 translate-y-0' : 'opacity-90 translate-y-2'}`}>
           <StatCard 
             icon={<Layers className="w-5 h-5 text-bio-cyan" />} 
             value={currentStats.totalAsvs} 
@@ -348,17 +348,17 @@ export default function App() {
         </section>
 
         {/* Bottom Row: Diversity & Metadata */}
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-3 gap-3">
           
           {/* Diversity Snapshot */}
-          <section className="md:col-span-1 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-6 shadow-lg">
-            <h3 className="text-lg font-medium text-white mb-6">Diversity Snapshot</h3>
+          <section className="md:col-span-1 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-3 shadow-lg">
+            <h3 className="text-xs font-medium text-white mb-6">Diversity Snapshot</h3>
             
             <div className="space-y-6">
               <div>
                 <div className="flex justify-between items-end mb-2">
-                  <span className="text-sm text-gray-400">Shannon Index</span>
-                  <span className="font-mono text-xl text-bio-cyan">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.shannon : '3.42') : '-.--'}</span>
+                  <span className="text-xs text-gray-400">Shannon Index</span>
+                  <span className="font-mono text-sm text-bio-cyan">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.shannon : '3.42') : '-.--'}</span>
                 </div>
                 <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
                   <div 
@@ -370,8 +370,8 @@ export default function App() {
               
               <div>
                 <div className="flex justify-between items-end mb-2">
-                  <span className="text-sm text-gray-400">Simpson Index</span>
-                  <span className="font-mono text-xl text-bio-teal">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.simpson : '0.87') : '-.--'}</span>
+                  <span className="text-xs text-gray-400">Simpson Index</span>
+                  <span className="font-mono text-sm text-bio-teal">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.simpson : '0.87') : '-.--'}</span>
                 </div>
                 <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
                   <div 
@@ -382,8 +382,8 @@ export default function App() {
               </div>
               <div>
                 <div className="flex justify-between items-end mb-2">
-                  <span className="text-sm text-gray-400">Chao1 Richness</span>
-                  <span className="font-mono text-xl text-bio-cyan">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.chao1 : '598.0') : '-.--'}</span>
+                  <span className="text-xs text-gray-400">Chao1 Richness</span>
+                  <span className="font-mono text-sm text-bio-cyan">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.chao1 : '598.0') : '-.--'}</span>
                 </div>
                 <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
                   <div 
@@ -395,8 +395,8 @@ export default function App() {
 
               <div>
                 <div className="flex justify-between items-end mb-2">
-                  <span className="text-sm text-gray-400">Pielou's Evenness</span>
-                  <span className="font-mono text-xl text-bio-teal">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.pielou : '0.75') : '-.--'}</span>
+                  <span className="text-xs text-gray-400">Pielou's Evenness</span>
+                  <span className="font-mono text-sm text-bio-teal">{hasRun ? (isSampleData ? SAMPLE_RUN.diversity.pielou : '0.75') : '-.--'}</span>
                 </div>
                 <div className="h-2 bg-gray-800 rounded-full overflow-hidden">
                   <div 
@@ -409,10 +409,10 @@ export default function App() {
           </section>
 
           {/* Sample Metadata Table */}
-          <section className="md:col-span-2 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-6 shadow-lg overflow-x-auto">
-            <h3 className="text-lg font-medium text-white mb-4">Sample Metadata</h3>
+          <section className="md:col-span-2 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-3 shadow-lg overflow-x-auto">
+            <h3 className="text-xs font-medium text-white mb-4">Sample Metadata</h3>
             
-            <table className="w-full text-left text-sm whitespace-nowrap">
+            <table className="w-full text-left text-xs whitespace-nowrap">
               <thead>
                 <tr className="border-b border-bio-cyan/20 text-gray-400">
                   <th className="pb-3 font-medium">Sample ID</th>
@@ -423,28 +423,28 @@ export default function App() {
               </thead>
               <tbody className={`transition-opacity duration-500 ${hasRun ? 'opacity-100' : 'opacity-30'}`}>
                 <tr className="border-b border-gray-800/50 hover:bg-[#050a12]/50 transition-colors">
-                  <td className="py-3 font-mono text-bio-cyan">DS-001</td>
-                  <td className="py-3 text-gray-300">Mariana Trench North</td>
-                  <td className="py-3 text-gray-300">4200</td>
-                  <td className="py-3 text-gray-400">2026-03-12</td>
+                  <td className="py-2 font-mono text-bio-cyan">DS-001</td>
+                  <td className="py-2 text-gray-300">Mariana Trench North</td>
+                  <td className="py-2 text-gray-300">4200</td>
+                  <td className="py-2 text-gray-400">2026-03-12</td>
                 </tr>
                 <tr className="border-b border-gray-800/50 hover:bg-[#050a12]/50 transition-colors">
-                  <td className="py-3 font-mono text-bio-cyan">DS-002</td>
-                  <td className="py-3 text-gray-300">Mariana Trench South</td>
-                  <td className="py-3 text-gray-300">4350</td>
-                  <td className="py-3 text-gray-400">2026-03-14</td>
+                  <td className="py-2 font-mono text-bio-cyan">DS-002</td>
+                  <td className="py-2 text-gray-300">Mariana Trench South</td>
+                  <td className="py-2 text-gray-300">4350</td>
+                  <td className="py-2 text-gray-400">2026-03-14</td>
                 </tr>
                 <tr className="hover:bg-[#050a12]/50 transition-colors">
-                  <td className="py-3 font-mono text-bio-cyan">DS-003</td>
-                  <td className="py-3 text-gray-300">Abyssal Plain Alpha</td>
-                  <td className="py-3 text-gray-300">3800</td>
-                  <td className="py-3 text-gray-400">2026-03-18</td>
+                  <td className="py-2 font-mono text-bio-cyan">DS-003</td>
+                  <td className="py-2 text-gray-300">Abyssal Plain Alpha</td>
+                  <td className="py-2 text-gray-300">3800</td>
+                  <td className="py-2 text-gray-400">2026-03-18</td>
                 </tr>
               </tbody>
             </table>
             {!hasRun && (
                <div className="absolute inset-0 bg-[#0a1420]/50 backdrop-blur-[2px] flex items-center justify-center rounded-2xl">
-                 <p className="text-sm text-bio-cyan">Awaiting data...</p>
+                 <p className="text-xs text-bio-cyan">Awaiting data...</p>
                </div>
             )}
           </section>
@@ -508,13 +508,13 @@ function StatCard({ icon, value, label, suffix = '', active, glowColor = 'rgba(3
   }, [active, value, suffix]);
 
   return (
-    <div className={`bg-white/15 backdrop-blur-xl border border-white/10 rounded-2xl p-5 flex flex-col justify-between transition-all duration-500 ${active ? 'shadow-lg' : ''}`}
+    <div className={`bg-white/15 backdrop-blur-xl border border-white/10 rounded-2xl p-2 flex flex-col justify-between transition-all duration-500 ${active ? 'shadow-lg' : ''}`}
          style={{ boxShadow: active ? `0 0 20px ${glowColor}` : 'none' }}>
       <div className="flex items-center justify-between mb-4">
         {icon}
       </div>
       <div>
-        <div className="font-mono text-2xl font-semibold text-white tracking-tight mb-1">
+        <div className="font-mono text-base font-semibold text-white tracking-tight mb-1">
           {displayValue.toLocaleString()}{suffix}
         </div>
         <div className="text-xs text-gray-400 font-medium tracking-wide uppercase">

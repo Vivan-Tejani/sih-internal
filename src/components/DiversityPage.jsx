@@ -49,7 +49,7 @@ function computeDiversity(clusters) {
 
 function MetricCard({ label, value, sub, tooltip }) {
   return (
-    <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-5 flex flex-col gap-1">
+    <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-2 flex flex-col gap-1">
       <div className="flex items-center justify-between">
         <span className="text-xs text-gray-400 uppercase tracking-wide">{label}</span>
         {tooltip && (
@@ -58,7 +58,7 @@ function MetricCard({ label, value, sub, tooltip }) {
           </span>
         )}
       </div>
-      <div className="font-mono text-3xl font-semibold text-white">{value}</div>
+      <div className="font-mono text-lg font-semibold text-white">{value}</div>
       {sub && <div className="text-xs text-gray-500">{sub}</div>}
     </div>
   );
@@ -79,18 +79,18 @@ export default function DiversityPage() {
   const maxReads = topClusters.length ? topClusters[0].totalReads : 1;
 
   return (
-    <div className="max-w-[95rem] mx-auto px-8 py-6 flex flex-col gap-8">
+    <div className="max-w-[95rem] mx-auto px-8 py-6 flex flex-col gap-3">
 
       {/* Title */}
       <div>
-        <h2 className="text-3xl font-light tracking-wide text-white">Abundance & Diversity</h2>
+        <h2 className="text-lg font-light tracking-wide text-white">Abundance & Diversity</h2>
         <p className="text-gray-400 mt-1">
           Alpha diversity computed from real per-cluster read abundances &middot; single-sample run
         </p>
       </div>
 
       {/* Alpha diversity metric cards */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-1">
         <MetricCard
           label="Shannon Index (H)"
           value={metrics.shannon.toFixed(3)}
@@ -118,26 +118,26 @@ export default function DiversityPage() {
       </div>
 
       {/* Abundance bar chart — top 20 clusters */}
-      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-6">
-        <h3 className="text-lg font-medium text-white mb-1">Top Clusters by Read Abundance</h3>
-        <p className="text-sm text-gray-400 mb-6">Top 20 of {metrics.S} clusters with nonzero reads, out of {metrics.total.toLocaleString()} total reads</p>
+      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-3">
+        <h3 className="text-xs font-medium text-white mb-1">Top Clusters by Read Abundance</h3>
+        <p className="text-xs text-gray-400 mb-6">Top 20 of {metrics.S} clusters with nonzero reads, out of {metrics.total.toLocaleString()} total reads</p>
 
         <div className="space-y-2.5">
           {topClusters.map(c => {
             const pct = (c.totalReads / maxReads) * 100;
             const info = CATEGORY_MAP[c.status] || CATEGORY_MAP["Low confidence / possible divergent"];
             return (
-              <div key={c.clusterId} className="flex items-center gap-3">
-                <div className="w-40 shrink-0 text-sm text-gray-300 truncate font-mono" title={c.clusterId}>
+              <div key={c.clusterId} className="flex items-center gap-1">
+                <div className="w-40 shrink-0 text-xs text-gray-300 truncate font-mono" title={c.clusterId}>
                   {c.clusterId}
                 </div>
-                <div className="flex-1 bg-[#050a12]/50 rounded-md h-6 relative overflow-hidden">
+                <div className="flex-1 bg-[#050a12]/50 rounded-md h-5 relative overflow-hidden">
                   <div
                     className="h-full rounded-md transition-all duration-500"
                     style={{ width: `${pct}%`, backgroundColor: info.color, opacity: 0.75 }}
                   />
                 </div>
-                <div className="w-24 shrink-0 text-right text-sm font-mono text-gray-300">
+                <div className="w-24 shrink-0 text-right text-xs font-mono text-gray-300">
                   {c.totalReads.toLocaleString()}
                 </div>
                 <div className="w-32 shrink-0 text-xs text-gray-500 truncate" title={c.taxon}>

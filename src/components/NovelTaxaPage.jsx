@@ -20,12 +20,12 @@ export default function NovelTaxaPage() {
   const totalNovelReads = novel.reduce((sum, c) => sum + c.totalReads, 0);
 
   return (
-    <div className="max-w-[95rem] mx-auto px-8 py-6 flex flex-col gap-6">
+    <div className="max-w-[95rem] mx-auto px-8 py-6 flex flex-col gap-2">
 
       {/* Title */}
       <div>
-        <h2 className="text-3xl font-light tracking-wide text-white flex items-center gap-3">
-          <Sparkles className="w-7 h-7 text-fuchsia-400" />
+        <h2 className="text-lg font-light tracking-wide text-white flex items-center gap-1">
+          <Sparkles className="w-5 h-5 text-fuchsia-400" />
           Novel Taxa Candidates
         </h2>
         <p className="text-gray-400 mt-1">
@@ -34,9 +34,9 @@ export default function NovelTaxaPage() {
       </div>
 
       {/* Sort control */}
-      <div className="flex items-center gap-3">
-        <span className="text-sm text-gray-400">Sort by:</span>
-        <div className="flex gap-2">
+      <div className="flex items-center gap-1">
+        <span className="text-xs text-gray-400">Sort by:</span>
+        <div className="flex gap-1">
           {[
             { key: 'reads', label: 'Read abundance' },
             { key: 'asvs', label: 'ASV count' },
@@ -45,7 +45,7 @@ export default function NovelTaxaPage() {
             <button
               key={opt.key}
               onClick={() => setSortBy(opt.key)}
-              className={`text-sm px-3 py-1.5 rounded-lg border transition-colors ${
+              className={`text-xs px-3 py-1.5 rounded-lg border transition-colors ${
                 sortBy === opt.key
                   ? 'bg-fuchsia-400/15 border-fuchsia-400/40 text-fuchsia-200'
                   : 'bg-white/5 border-white/10 text-gray-400 hover:text-gray-200'
@@ -58,45 +58,45 @@ export default function NovelTaxaPage() {
       </div>
 
       {/* Candidate cards */}
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-1">
         {novel.map((c, idx) => {
           const isExpanded = expandedId === c.clusterId;
           return (
             <div
               key={c.clusterId}
-              className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-5 hover:border-fuchsia-400/30 transition-colors cursor-pointer"
+              className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-2 hover:border-fuchsia-400/30 transition-colors cursor-pointer"
               onClick={() => setExpandedId(isExpanded ? null : c.clusterId)}
             >
               <div className="flex items-start justify-between mb-3">
                 <div>
-                  <div className="flex items-center gap-2">
+                  <div className="flex items-center gap-1">
                     <span className="text-xs font-mono px-2 py-0.5 rounded bg-fuchsia-400/10 text-fuchsia-300 border border-fuchsia-400/20">
                       #{idx + 1}
                     </span>
-                    <span className="font-mono text-sm text-gray-400">{c.clusterId}</span>
+                    <span className="font-mono text-xs text-gray-400">{c.clusterId}</span>
                   </div>
                 </div>
                 <ChevronDown className={`w-4 h-4 text-gray-500 transition-transform ${isExpanded ? 'rotate-180' : ''}`} />
               </div>
 
-              <div className="grid grid-cols-3 gap-2 mb-3">
+              <div className="grid grid-cols-3 gap-1 mb-3">
                 <div>
                   <p className="text-xs text-gray-500 uppercase tracking-wide">ASVs</p>
-                  <p className="font-mono text-lg text-white">{c.numASVs.toLocaleString()}</p>
+                  <p className="font-mono text-xs text-white">{c.numASVs.toLocaleString()}</p>
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase tracking-wide">Reads</p>
-                  <p className="font-mono text-lg text-white">{c.totalReads.toLocaleString()}</p>
+                  <p className="font-mono text-xs text-white">{c.totalReads.toLocaleString()}</p>
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase tracking-wide">% Sample</p>
-                  <p className="font-mono text-lg text-white">{c.pctOfSample}%</p>
+                  <p className="font-mono text-xs text-white">{c.pctOfSample}%</p>
                 </div>
               </div>
 
               <div className="border-t border-white/5 pt-3">
                 <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">Nearest Known Match</p>
-                <p className="text-sm text-gray-200">{c.taxon.replace(/_/g, ' ')}</p>
+                <p className="text-xs text-gray-200">{c.taxon.replace(/_/g, ' ')}</p>
                 <p className="text-xs text-fuchsia-300 font-mono mt-0.5">{c.similarityPct}% similarity</p>
               </div>
 

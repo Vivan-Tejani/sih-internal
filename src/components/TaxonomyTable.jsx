@@ -95,16 +95,16 @@ export default function TaxonomyTable() {
   ];
 
   return (
-    <div className="max-w-[95rem] mx-auto px-8 py-6 flex flex-col gap-4">
+    <div className="max-w-[95rem] mx-auto px-8 py-6 h-[calc(100vh-80px)] flex flex-col gap-1">
 
       {/* Title */}
       <div>
-        <h2 className="text-3xl font-light tracking-wide text-white">Taxonomy Table</h2>
+        <h2 className="text-lg font-light tracking-wide text-white">Taxonomy Table</h2>
         <p className="text-gray-400 mt-1">{filtered.length} of {clusters.length} clusters shown</p>
       </div>
 
       {/* Filters bar */}
-      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-4 flex flex-col md:flex-row gap-3 md:items-center">
+      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-2 flex flex-col md:flex-row gap-1 md:items-center">
         <div className="relative flex-1 min-w-[220px]">
           <Search className="w-4 h-4 text-gray-500 absolute left-3 top-1/2 -translate-y-1/2" />
           <input
@@ -112,7 +112,7 @@ export default function TaxonomyTable() {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Search cluster ID, taxon, or lineage..."
-            className="w-full h-10 bg-[#050a12]/60 border border-white/10 rounded-lg pl-9 pr-3 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-bio-cyan/50"
+            className="w-full h-8 bg-[#050a12]/60 border border-white/10 rounded-lg pl-9 pr-3 text-xs text-gray-200 placeholder-gray-500 focus:outline-none focus:border-bio-cyan/50"
           />
         </div>
 
@@ -120,7 +120,7 @@ export default function TaxonomyTable() {
           <select
             value={statusFilter}
             onChange={(e) => setStatusFilter(e.target.value)}
-            className="w-full h-10 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
+            className="w-full h-8 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-xs text-gray-200 focus:outline-none focus:border-bio-cyan/50"
           >
             <option value="all">All statuses</option>
             <option value="novel">Novel only</option>
@@ -133,7 +133,7 @@ export default function TaxonomyTable() {
           <select
             value={confBand}
             onChange={(e) => setConfBand(e.target.value)}
-            className="w-full h-10 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-sm text-gray-200 focus:outline-none focus:border-bio-cyan/50"
+            className="w-full h-8 appearance-none bg-[#050a12]/60 border border-white/10 rounded-lg pl-3 pr-9 text-xs text-gray-200 focus:outline-none focus:border-bio-cyan/50"
           >
             <option value="all">All confidence bands</option>
             <option value="high">High (&ge;80%)</option>
@@ -145,16 +145,16 @@ export default function TaxonomyTable() {
       </div>
 
       {/* Table */}
-      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl overflow-hidden shadow-lg">
-        <div className="overflow-x-auto max-h-[65vh] overflow-y-auto">
-          <table className="w-full text-base">
+      <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl overflow-hidden shadow-lg flex-1 min-h-0 flex flex-col">
+        <div className="overflow-x-auto overflow-y-auto flex-1 min-h-0">
+          <table className="w-full text-xs">
             <thead className="sticky top-0 bg-[#0a1420]/95 backdrop-blur-md z-10">
               <tr className="border-b border-white/10">
                 {columns.map(col => (
                   <th
                     key={col.key}
                     onClick={() => col.sortable !== false && toggleSort(col.key)}
-                    className={`text-left px-4 py-3 text-sm uppercase tracking-wide text-gray-400 font-medium whitespace-nowrap ${
+                    className={`text-left px-4 py-2 text-xs uppercase tracking-wide text-gray-400 font-medium whitespace-nowrap ${
                       col.sortable !== false ? 'cursor-pointer hover:text-gray-200 select-none' : ''
                     }`}
                   >
@@ -171,13 +171,13 @@ export default function TaxonomyTable() {
                 const info = CATEGORY_MAP[c.status] || CATEGORY_MAP["Low confidence / possible divergent"];
                 return (
                   <tr key={c.clusterId} className="border-b border-white/5 hover:bg-white/5 transition-colors">
-                    <td className="px-4 py-3 font-mono text-gray-300 whitespace-nowrap">{c.clusterId}</td>
-                    <td className="px-4 py-3 text-white whitespace-nowrap">{c.taxon.replace(/_/g, ' ')}</td>
-                    <td className="px-4 py-3 text-gray-400 whitespace-nowrap">{getRank(c.lineage)}</td>
-                    <td className="px-4 py-3 font-mono whitespace-nowrap" style={{ color: info.color }}>
+                    <td className="px-4 py-2 font-mono text-gray-300 whitespace-nowrap">{c.clusterId}</td>
+                    <td className="px-4 py-2 text-white whitespace-nowrap">{c.taxon.replace(/_/g, ' ')}</td>
+                    <td className="px-4 py-2 text-gray-400 whitespace-nowrap">{getRank(c.lineage)}</td>
+                    <td className="px-4 py-2 font-mono whitespace-nowrap" style={{ color: info.color }}>
                       {c.similarityPct}%
                     </td>
-                    <td className="px-4 py-3 whitespace-nowrap">
+                    <td className="px-4 py-2 whitespace-nowrap">
                       <span
                         className="text-xs px-2 py-1 rounded-full border"
                         style={{ color: info.color, borderColor: `${info.color}40`, backgroundColor: `${info.color}15` }}
@@ -185,14 +185,14 @@ export default function TaxonomyTable() {
                         {info.label}
                       </span>
                     </td>
-                    <td className="px-4 py-3 text-gray-500 whitespace-nowrap">
+                    <td className="px-4 py-2 text-gray-500 whitespace-nowrap">
                       <span title="Not yet computed by pipeline">N/A</span>
                     </td>
-                    <td className="px-4 py-3 text-gray-500 whitespace-nowrap">
+                    <td className="px-4 py-2 text-gray-500 whitespace-nowrap">
                       <span title="Not yet computed by pipeline">N/A</span>
                     </td>
-                    <td className="px-4 py-3 font-mono text-gray-300 whitespace-nowrap">{c.numASVs.toLocaleString()}</td>
-                    <td className="px-4 py-3 font-mono text-gray-300 whitespace-nowrap">{c.totalReads.toLocaleString()}</td>
+                    <td className="px-4 py-2 font-mono text-gray-300 whitespace-nowrap">{c.numASVs.toLocaleString()}</td>
+                    <td className="px-4 py-2 font-mono text-gray-300 whitespace-nowrap">{c.totalReads.toLocaleString()}</td>
                   </tr>
                 );
               })}

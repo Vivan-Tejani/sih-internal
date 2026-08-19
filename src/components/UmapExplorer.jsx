@@ -31,17 +31,6 @@ export default function UmapExplorer() {
   const [hoveredCluster, setHoveredCluster] = useState(null);
   const [selectedCluster, setSelectedCluster] = useState(null);
 
-  // Fake-3D: mouse-driven parallax offset (-1 to 1 range)
-  const [parallax, setParallax] = useState({ x: 0, y: 0 });
-
-  const handlePlaneMouseMove = (e) => {
-    if (!containerRef.current) return;
-    const rect = containerRef.current.getBoundingClientRect();
-    const px = ((e.clientX - rect.left) / rect.width) * 2 - 1;
-    const py = ((e.clientY - rect.top) / rect.height) * 2 - 1;
-    setParallax({ x: px, y: py });
-  };
-
   // SVG Data dimensions
   const meta = umapData.meta;
   const padding = Math.max(meta.xMax - meta.xMin, meta.yMax - meta.yMin) * 0.1;
@@ -133,21 +122,21 @@ export default function UmapExplorer() {
   };
 
   return (
-    <div className="max-w-[90rem] mx-auto px-8 py-6 h-[calc(100vh-80px)] flex flex-col gap-4">
+    <div className="max-w-[90rem] mx-auto px-8 py-6 h-[calc(100vh-80px)] flex flex-col gap-1">
       
       {/* Title */}
       <div className="shrink-0">
-        <h2 className="text-3xl font-light tracking-wide text-white">UMAP Explorer</h2>
+        <h2 className="text-lg font-light tracking-wide text-white">UMAP Explorer</h2>
         <p className="text-gray-400 mt-1">{meta.totalClusters} clusters &middot; real embedding-space projection</p>
       </div>
 
-      <div className="flex flex-col lg:flex-row gap-6 flex-1 min-h-0">
+      <div className="flex flex-col lg:flex-row gap-2 flex-1 min-h-0">
         
         {/* Main Plot Area */}
         <div className="relative flex-1 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl overflow-hidden shadow-lg flex items-center justify-center">
           
           {/* Controls */}
-          <div className="absolute top-4 right-4 z-10 flex gap-2">
+          <div className="absolute top-4 right-4 z-10 flex gap-1">
             <button 
               onClick={resetView}
               className="p-2 bg-[#0a1420]/80 hover:bg-[#0a1420] text-gray-300 hover:text-white border border-white/10 rounded-lg backdrop-blur-md transition-colors"
@@ -163,7 +152,6 @@ export default function UmapExplorer() {
             className="w-full h-full cursor-grab active:cursor-grabbing outline-none"
             onWheel={handleWheel}
             onMouseDown={handleMouseDown}
-            onMouseMove={handlePlaneMouseMove}
           >
             <div 
               className="w-full h-full origin-center"
@@ -183,30 +171,20 @@ export default function UmapExplorer() {
                   const isSelected = selectedCluster?.clusterId === c.clusterId;
                   const colorInfo = CATEGORY_MAP[c.status] || CATEGORY_MAP["Low confidence / possible divergent"];
 
-                  // Fake-3D: use similarityPct as synthetic depth (z). 0 = far back, 1 = closest.
-                  const z = c.similarityPct / 100;
-                  const depthScale = 0.6 + z * 0.8; // 0.6x (far) to 1.4x (near)
-                  const depthOpacity = 0.35 + z * 0.65; // dimmer when "far"
-                  // Parallax: things closer (higher z) shift more with mouse, farther shift less
-                  const parallaxStrength = width * 0.15 * z;
-                  const px = c.x + parallax.x * parallaxStrength;
-                  const py = -c.y + parallax.y * parallaxStrength;
-
                   return (
                     <circle
                       key={c.clusterId}
-                      cx={px}
-                      cy={py}
-                      r={(isSelected || isHovered ? r * 1.5 : r) * depthScale}
+                      cx={c.x}
+                      cy={-c.y}
+                      r={isSelected || isHovered ? r * 1.5 : r}
                       fill={colorInfo.color}
-                      fillOpacity={(isHovered || isSelected ? 1 : 0.7) * depthOpacity}
+                      fillOpacity={isHovered || isSelected ? 1 : 0.7}
                       stroke={colorInfo.color}
                       strokeWidth={isSelected ? width * 0.005 : width * 0.001}
-                      className="cursor-pointer"
+                      className="cursor-pointer transition-all duration-200"
                       style={{
                         filter: isSelected ? `drop-shadow(0 0 4px ${colorInfo.color})` : 'none',
-                        transformOrigin: `${px}px ${py}px`,
-                        transition: isDragging ? 'none' : 'cx 0.15s ease-out, cy 0.15s ease-out, r 0.2s ease-out',
+                        transformOrigin: `${c.x}px ${-c.y}px`,
                       }}
                       onMouseEnter={(e) => {
                         const rect = containerRef.current.getBoundingClientRect();
@@ -231,7 +209,7 @@ export default function UmapExplorer() {
           {/* Tooltip */}
           {hoveredCluster && !isDragging && (
             <div 
-              className="absolute pointer-events-none bg-[#050a12]/90 backdrop-blur-md border border-bio-cyan/30 p-3 rounded-lg shadow-xl text-sm z-20"
+              className="absolute pointer-events-none bg-[#050a12]/90 backdrop-blur-md border border-bio-cyan/30 p-2 rounded-lg shadow-xl text-xs z-20"
               style={{
                 left: hoveredCluster.mouseX + 15,
                 top: hoveredCluster.mouseY + 15,
@@ -244,8 +222,8 @@ export default function UmapExplorer() {
           )}
 
           {/* Legend Panel (overlay inside map, top left) */}
-          <div className="absolute top-4 left-4 z-10 bg-[#0a1420]/80 backdrop-blur-md border border-white/10 rounded-xl p-4 shadow-lg min-w-[260px]">
-            <h3 className="text-sm font-medium text-white mb-3 tracking-wide">Category Layers</h3>
+          <div className="absolute top-4 left-4 z-10 bg-[#0a1420]/80 backdrop-blur-md border border-white/10 rounded-xl p-2 shadow-lg min-w-[260px]">
+            <h3 className="text-xs font-medium text-white mb-3 tracking-wide">Category Layers</h3>
             <div className="space-y-3">
               {Object.keys(CATEGORY_MAP).map(status => {
                 const count = meta.statusCounts[status] || 0;
@@ -253,7 +231,7 @@ export default function UmapExplorer() {
                 const isVisible = visibleCategories[status];
                 
                 return (
-                  <label key={status} className="flex items-center gap-3 cursor-pointer group">
+                  <label key={status} className="flex items-center gap-1 cursor-pointer group">
                     <div className="relative flex items-center justify-center">
                       <input 
                         type="checkbox" 
@@ -269,7 +247,7 @@ export default function UmapExplorer() {
                         )}
                       </div>
                     </div>
-                    <div className={`text-sm transition-colors flex-1 flex justify-between items-center ${isVisible ? 'text-gray-200' : 'text-gray-500 line-through'}`}>
+                    <div className={`text-xs transition-colors flex-1 flex justify-between items-center ${isVisible ? 'text-gray-200' : 'text-gray-500 line-through'}`}>
                       <span>{info.label}</span>
                       <span className="font-mono text-xs opacity-70">{count}</span>
                     </div>
@@ -281,12 +259,12 @@ export default function UmapExplorer() {
         </div>
 
         {/* Side Panel (Right) */}
-        <div className="w-full lg:w-[350px] shrink-0 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-6 shadow-lg flex flex-col relative overflow-hidden transition-all duration-300">
+        <div className="w-full lg:w-[350px] shrink-0 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl p-3 shadow-lg flex flex-col relative overflow-hidden transition-all duration-300">
           {!selectedCluster ? (
             <div className="flex-1 flex flex-col items-center justify-center text-center opacity-50">
               <MousePointerClick className="w-12 h-12 text-bio-cyan mb-4 opacity-50" />
-              <p className="text-lg text-white font-medium">No Cluster Selected</p>
-              <p className="text-sm text-gray-400 mt-2">Click a cluster point on the map to view detailed metadata and lineage.</p>
+              <p className="text-xs text-white font-medium">No Cluster Selected</p>
+              <p className="text-xs text-gray-400 mt-2">Click a cluster point on the map to view detailed metadata and lineage.</p>
             </div>
           ) : (
             <div className="animate-in fade-in slide-in-from-right-4 duration-300 h-full flex flex-col">
@@ -298,32 +276,32 @@ export default function UmapExplorer() {
               </button>
 
               <div className="mb-6 pr-8">
-                <p className="font-mono text-sm text-gray-400 mb-1">{selectedCluster.clusterId}</p>
-                <h3 className="text-2xl font-semibold text-white tracking-tight break-words">
+                <p className="font-mono text-xs text-gray-400 mb-1">{selectedCluster.clusterId}</p>
+                <h3 className="text-base font-semibold text-white tracking-tight break-words">
                   {selectedCluster.taxon.replace(/_/g, ' ')}
                 </h3>
               </div>
 
-              <div className="bg-[#050a12]/50 border border-white/5 rounded-xl p-4 mb-6">
+              <div className="bg-[#050a12]/50 border border-white/5 rounded-xl p-2 mb-6">
                 <div className="flex justify-between items-end mb-1">
                   <span className="text-xs text-gray-500 uppercase tracking-wide">Confidence</span>
-                  <span className="text-sm font-mono text-white" style={{ color: CATEGORY_MAP[selectedCluster.status]?.color }}>
+                  <span className="text-xs font-mono text-white" style={{ color: CATEGORY_MAP[selectedCluster.status]?.color }}>
                     {selectedCluster.similarityPct}%
                   </span>
                 </div>
-                <div className="text-sm text-gray-300 mb-4">{CATEGORY_MAP[selectedCluster.status]?.label}</div>
+                <div className="text-xs text-gray-300 mb-4">{CATEGORY_MAP[selectedCluster.status]?.label}</div>
                 
                 <div className="space-y-3">
                   <div className="flex justify-between items-center border-t border-white/5 pt-3">
-                    <span className="text-sm text-gray-400">ASVs in cluster</span>
+                    <span className="text-xs text-gray-400">ASVs in cluster</span>
                     <span className="font-mono text-white">{selectedCluster.numASVs.toLocaleString()}</span>
                   </div>
                   <div className="flex justify-between items-center border-t border-white/5 pt-3">
-                    <span className="text-sm text-gray-400">Total reads</span>
+                    <span className="text-xs text-gray-400">Total reads</span>
                     <span className="font-mono text-white">{selectedCluster.totalReads.toLocaleString()}</span>
                   </div>
                   <div className="flex justify-between items-center border-t border-white/5 pt-3">
-                    <span className="text-sm text-gray-400">% of sample</span>
+                    <span className="text-xs text-gray-400">% of sample</span>
                     <span className="font-mono text-white">{selectedCluster.pctOfSample}%</span>
                   </div>
                 </div>
@@ -331,14 +309,14 @@ export default function UmapExplorer() {
 
               <div className="mb-6">
                 <p className="text-xs text-gray-500 uppercase tracking-wide mb-2">Representative ASV</p>
-                <p className="text-sm font-mono text-gray-300 bg-white/5 py-1 px-2 rounded inline-block">
+                <p className="text-xs font-mono text-gray-300 bg-white/5 py-1 px-2 rounded inline-block">
                   {selectedCluster.representativeASV}
                 </p>
               </div>
 
               <div className="mb-6 flex-1">
                 <p className="text-xs text-gray-500 uppercase tracking-wide mb-2">Taxonomic Lineage</p>
-                <div className="text-sm text-gray-300 flex flex-wrap gap-1 leading-relaxed">
+                <div className="text-xs text-gray-300 flex flex-wrap gap-1 leading-relaxed">
                   {formatLineage(selectedCluster.lineage).map((segment, i, arr) => (
                     <React.Fragment key={i}>
                       <span className={i === arr.length - 1 ? "text-white font-medium" : "opacity-80"}>
